@@ -8,6 +8,7 @@ Solving DSA problems daily
 | ------- |
 | [0001-two-sum](https://github.com/Ashu0378/Leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ashu0378/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/Ashu0378/Leetcode/tree/master/0046-permutations) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,4 +17,8 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ashu0378/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Ashu0378/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
