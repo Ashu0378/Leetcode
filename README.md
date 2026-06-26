@@ -13,6 +13,7 @@ Solving DSA problems daily
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ashu0378/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/Ashu0378/Leetcode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/Ashu0378/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/Ashu0378/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0463-island-perimeter](https://github.com/Ashu0378/Leetcode/tree/master/0463-island-perimeter) |
 ## Hash Table
 |  |
@@ -70,4 +71,8 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ashu0378/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Ashu0378/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
