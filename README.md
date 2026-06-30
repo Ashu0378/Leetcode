@@ -18,6 +18,7 @@ Solving DSA problems daily
 | [0238-product-of-array-except-self](https://github.com/Ashu0378/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0463-island-perimeter](https://github.com/Ashu0378/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Ashu0378/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Ashu0378/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1539-kth-missing-positive-number](https://github.com/Ashu0378/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ashu0378/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ashu0378/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -28,6 +29,7 @@ Solving DSA problems daily
 | ------- |
 | [0001-two-sum](https://github.com/Ashu0378/Leetcode/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Ashu0378/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Ashu0378/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,6 +91,7 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ashu0378/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Ashu0378/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Greedy
 |  |
 | ------- |
