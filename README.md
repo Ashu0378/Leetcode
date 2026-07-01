@@ -74,6 +74,7 @@ Solving DSA problems daily
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Ashu0378/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Ashu0378/Leetcode/tree/master/0392-is-subsequence) |
+| [0796-rotate-string](https://github.com/Ashu0378/Leetcode/tree/master/0796-rotate-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashu0378/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/Ashu0378/Leetcode/tree/master/2047-number-of-valid-words-in-a-sentence) |
 ## Dynamic Programming
@@ -116,4 +117,8 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ashu0378/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Ashu0378/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
