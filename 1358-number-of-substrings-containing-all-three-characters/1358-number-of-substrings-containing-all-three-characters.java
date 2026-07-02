@@ -2,11 +2,10 @@ class Solution {
     public int numberOfSubstrings(String s) {
         int ans=0;
         int left=0;
-        int right=0;
         int a=0;
         int b=0;
         int c=0;
-        while(right<s.length()){
+        for(int right=0;right<s.length();right++){
             if(s.charAt(right)=='a') a++;
             else if(s.charAt(right)=='b') b++;
             else c++;
@@ -17,7 +16,6 @@ class Solution {
                 left++;
             }
             ans+=left;
-            right++;
         }
 
         return ans;
