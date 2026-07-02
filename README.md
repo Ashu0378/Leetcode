@@ -20,6 +20,7 @@ Solving DSA problems daily
 | [0463-island-perimeter](https://github.com/Ashu0378/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Ashu0378/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashu0378/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1528-shuffle-string](https://github.com/Ashu0378/Leetcode/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/Ashu0378/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ashu0378/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ashu0378/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -76,6 +77,7 @@ Solving DSA problems daily
 | [0151-reverse-words-in-a-string](https://github.com/Ashu0378/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Ashu0378/Leetcode/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/Ashu0378/Leetcode/tree/master/0796-rotate-string) |
+| [1528-shuffle-string](https://github.com/Ashu0378/Leetcode/tree/master/1528-shuffle-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ashu0378/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashu0378/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/Ashu0378/Leetcode/tree/master/2047-number-of-valid-words-in-a-sentence) |
