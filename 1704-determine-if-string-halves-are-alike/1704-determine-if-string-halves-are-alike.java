@@ -4,18 +4,16 @@ class Solution {
         String s2=s.substring(s.length()/2);
 
         String vowels="aeiouAEIOU";
-        int first=0;
-        int second=0;
+        int count=0;
         for(int i=0;i<s1.length();i++){
-            char ch=s1.charAt(i);
-            if(vowels.indexOf(ch) != -1) first++;
+            if(vowels.indexOf(s1.charAt(i)) != -1)
+                count++;
+            if(vowels.indexOf(s2.charAt(i)) != -1)
+                count--;
         }
-        for(int i=0;i<s2.length();i++){
-            char ch=s2.charAt(i);
-            if(vowels.indexOf(ch) != -1) second++;
-        }
+        
 
-        if(first==second) return true;
+        if(count==0) return true;
         return false; 
     }
 }
