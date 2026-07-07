@@ -33,6 +33,7 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ashu0378/Leetcode/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/Ashu0378/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Ashu0378/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashu0378/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ashu0378/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -82,6 +83,7 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Ashu0378/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Ashu0378/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/Ashu0378/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Ashu0378/Leetcode/tree/master/0394-decode-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Ashu0378/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
