@@ -84,6 +84,7 @@ Solving DSA problems daily
 | [0151-reverse-words-in-a-string](https://github.com/Ashu0378/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Ashu0378/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Ashu0378/Leetcode/tree/master/0394-decode-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/Ashu0378/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Ashu0378/Leetcode/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/Ashu0378/Leetcode/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ashu0378/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
