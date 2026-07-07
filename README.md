@@ -102,6 +102,7 @@ Solving DSA problems daily
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ashu0378/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashu0378/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/Ashu0378/Leetcode/tree/master/2047-number-of-valid-words-in-a-sentence) |
+| [3136-valid-word](https://github.com/Ashu0378/Leetcode/tree/master/3136-valid-word) |
 ## Dynamic Programming
 |  |
 | ------- |
