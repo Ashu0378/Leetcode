@@ -13,6 +13,7 @@ Solving DSA problems daily
 | [0046-permutations](https://github.com/Ashu0378/Leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Ashu0378/Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Ashu0378/Leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Ashu0378/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ashu0378/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ashu0378/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/Ashu0378/Leetcode/tree/master/0179-largest-number) |
@@ -58,9 +59,11 @@ Solving DSA problems daily
 | ------- |
 | [0039-combination-sum](https://github.com/Ashu0378/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Ashu0378/Leetcode/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/Ashu0378/Leetcode/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Ashu0378/Leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Ashu0378/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ashu0378/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -83,6 +86,7 @@ Solving DSA problems daily
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Ashu0378/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Ashu0378/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Ashu0378/Leetcode/tree/master/0463-island-perimeter) |
 ## Two Pointers
@@ -98,6 +102,7 @@ Solving DSA problems daily
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Ashu0378/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashu0378/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Ashu0378/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Ashu0378/Leetcode/tree/master/0205-isomorphic-strings) |
