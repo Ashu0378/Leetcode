@@ -58,12 +58,14 @@ Solving DSA problems daily
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Ashu0378/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Ashu0378/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Ashu0378/Leetcode/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Ashu0378/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Ashu0378/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Ashu0378/Leetcode/tree/master/0463-island-perimeter) |
@@ -192,9 +194,11 @@ Solving DSA problems daily
 ## Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Ashu0378/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Ashu0378/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
