@@ -38,6 +38,7 @@ Solving DSA problems daily
 | [0001-two-sum](https://github.com/Ashu0378/Leetcode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/Ashu0378/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Ashu0378/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Ashu0378/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Ashu0378/Leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Ashu0378/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashu0378/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -99,6 +100,7 @@ Solving DSA problems daily
 | [0151-reverse-words-in-a-string](https://github.com/Ashu0378/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Ashu0378/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Ashu0378/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Ashu0378/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Ashu0378/Leetcode/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Ashu0378/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Ashu0378/Leetcode/tree/master/0394-decode-string) |
@@ -148,6 +150,7 @@ Solving DSA problems daily
 | ------- |
 | [0075-sort-colors](https://github.com/Ashu0378/Leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Ashu0378/Leetcode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Ashu0378/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Ashu0378/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ashu0378/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3842-toggle-light-bulbs](https://github.com/Ashu0378/Leetcode/tree/master/3842-toggle-light-bulbs) |
