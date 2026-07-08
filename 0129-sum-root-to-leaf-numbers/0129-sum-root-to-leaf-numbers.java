@@ -14,25 +14,16 @@
  * }
  */
 class Solution {
-    public static int ans=0;
     public int sumNumbers(TreeNode root) {
-        ans=0;
-        StringBuilder currPath=new StringBuilder();
-
-        helper(root,currPath);
-        return ans;
+        return helper(root,0);
     }
-    public void helper(TreeNode root,StringBuilder currPath){
-        if(root==null) return;
-        currPath.append(root.val);
+    public int helper(TreeNode root,int currSum){
+        if(root==null) return 0;
+        currSum=currSum*10+root.val;
         if(root.left==null && root.right==null){
-            ans+=Integer.parseInt(currPath.toString());
+            return currSum;
         }
-        else{
-            helper(root.left,currPath);
-            helper(root.right,currPath);
-        }
-        currPath.deleteCharAt(currPath.length() - 1);
+        return helper(root.left,currSum)+helper(root.right,currSum);
 
     }
 }
