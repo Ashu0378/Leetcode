@@ -120,6 +120,7 @@ Solving DSA problems daily
 | [1108-defanging-an-ip-address](https://github.com/Ashu0378/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ashu0378/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Ashu0378/Leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
+| [1446-consecutive-characters](https://github.com/Ashu0378/Leetcode/tree/master/1446-consecutive-characters) |
 | [1528-shuffle-string](https://github.com/Ashu0378/Leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ashu0378/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ashu0378/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
