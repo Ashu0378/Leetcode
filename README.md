@@ -126,6 +126,7 @@ Solving DSA problems daily
 | [0394-decode-string](https://github.com/Ashu0378/Leetcode/tree/master/0394-decode-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Ashu0378/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Ashu0378/Leetcode/tree/master/0443-string-compression) |
+| [0482-license-key-formatting](https://github.com/Ashu0378/Leetcode/tree/master/0482-license-key-formatting) |
 | [0796-rotate-string](https://github.com/Ashu0378/Leetcode/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/Ashu0378/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ashu0378/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
