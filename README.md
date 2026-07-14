@@ -206,6 +206,7 @@ Solving DSA problems daily
 | [0204-count-primes](https://github.com/Ashu0378/Leetcode/tree/master/0204-count-primes) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ashu0378/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2427-number-of-common-factors](https://github.com/Ashu0378/Leetcode/tree/master/2427-number-of-common-factors) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Ashu0378/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ashu0378/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ashu0378/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ashu0378/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -214,6 +215,7 @@ Solving DSA problems daily
 | ------- |
 | [0204-count-primes](https://github.com/Ashu0378/Leetcode/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/Ashu0378/Leetcode/tree/master/2427-number-of-common-factors) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Ashu0378/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ashu0378/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String Matching
 |  |
