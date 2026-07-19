@@ -27,6 +27,7 @@ Solving DSA problems daily
 | [0347-top-k-frequent-elements](https://github.com/Ashu0378/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/Ashu0378/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Ashu0378/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/Ashu0378/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashu0378/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ashu0378/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0890-find-and-replace-pattern](https://github.com/Ashu0378/Leetcode/tree/master/0890-find-and-replace-pattern) |
@@ -59,6 +60,7 @@ Solving DSA problems daily
 | [0290-word-pattern](https://github.com/Ashu0378/Leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Ashu0378/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/Ashu0378/Leetcode/tree/master/0409-longest-palindrome) |
+| [0525-contiguous-array](https://github.com/Ashu0378/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashu0378/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0890-find-and-replace-pattern](https://github.com/Ashu0378/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1331-rank-transform-of-an-array](https://github.com/Ashu0378/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -190,6 +192,7 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ashu0378/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/Ashu0378/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashu0378/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Greedy
 |  |
