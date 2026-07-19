@@ -30,6 +30,7 @@ Solving DSA problems daily
 | [0560-subarray-sum-equals-k](https://github.com/Ashu0378/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ashu0378/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0890-find-and-replace-pattern](https://github.com/Ashu0378/Leetcode/tree/master/0890-find-and-replace-pattern) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ashu0378/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1331-rank-transform-of-an-array](https://github.com/Ashu0378/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ashu0378/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Ashu0378/Leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
@@ -197,6 +198,7 @@ Solving DSA problems daily
 | [0055-jump-game](https://github.com/Ashu0378/Leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Ashu0378/Leetcode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Ashu0378/Leetcode/tree/master/0409-longest-palindrome) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ashu0378/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/Ashu0378/Leetcode/tree/master/1323-maximum-69-number) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Ashu0378/Leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1710-maximum-units-on-a-truck](https://github.com/Ashu0378/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
@@ -223,6 +225,7 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ashu0378/Leetcode/tree/master/0204-count-primes) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ashu0378/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/Ashu0378/Leetcode/tree/master/1323-maximum-69-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ashu0378/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashu0378/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
