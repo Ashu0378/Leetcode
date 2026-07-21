@@ -160,6 +160,7 @@ Solving DSA problems daily
 | [0434-number-of-segments-in-a-string](https://github.com/Ashu0378/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Ashu0378/Leetcode/tree/master/0443-string-compression) |
 | [0482-license-key-formatting](https://github.com/Ashu0378/Leetcode/tree/master/0482-license-key-formatting) |
+| [0520-detect-capital](https://github.com/Ashu0378/Leetcode/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/Ashu0378/Leetcode/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/Ashu0378/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0925-long-pressed-name](https://github.com/Ashu0378/Leetcode/tree/master/0925-long-pressed-name) |
