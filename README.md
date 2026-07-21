@@ -14,6 +14,7 @@ Solving DSA problems daily
 | [0040-combination-sum-ii](https://github.com/Ashu0378/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Ashu0378/Leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Ashu0378/Leetcode/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/Ashu0378/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Ashu0378/Leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Ashu0378/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ashu0378/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -122,6 +123,7 @@ Solving DSA problems daily
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Ashu0378/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/Ashu0378/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Ashu0378/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ashu0378/Leetcode/tree/master/0200-number-of-islands) |
@@ -227,6 +229,7 @@ Solving DSA problems daily
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Ashu0378/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashu0378/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3842-toggle-light-bulbs](https://github.com/Ashu0378/Leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Math
