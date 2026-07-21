@@ -177,6 +177,7 @@ Solving DSA problems daily
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ashu0378/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/Ashu0378/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashu0378/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Ashu0378/Leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/Ashu0378/Leetcode/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [3136-valid-word](https://github.com/Ashu0378/Leetcode/tree/master/3136-valid-word) |
 ## Dynamic Programming
@@ -215,6 +216,7 @@ Solving DSA problems daily
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Ashu0378/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ashu0378/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/Ashu0378/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Ashu0378/Leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ashu0378/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Sorting
 |  |
