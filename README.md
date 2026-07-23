@@ -182,6 +182,7 @@ Solving DSA problems daily
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Ashu0378/Leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/Ashu0378/Leetcode/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2490-circular-sentence](https://github.com/Ashu0378/Leetcode/tree/master/2490-circular-sentence) |
+| [2833-furthest-point-from-origin](https://github.com/Ashu0378/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3110-score-of-a-string](https://github.com/Ashu0378/Leetcode/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/Ashu0378/Leetcode/tree/master/3136-valid-word) |
 ## Dynamic Programming
@@ -283,6 +284,7 @@ Solving DSA problems daily
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ashu0378/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Ashu0378/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashu0378/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2833-furthest-point-from-origin](https://github.com/Ashu0378/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Stack
 |  |
 | ------- |
