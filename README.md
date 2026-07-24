@@ -188,6 +188,7 @@ Solving DSA problems daily
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Ashu0378/Leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/Ashu0378/Leetcode/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ashu0378/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Ashu0378/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2490-circular-sentence](https://github.com/Ashu0378/Leetcode/tree/master/2490-circular-sentence) |
 | [2810-faulty-keyboard](https://github.com/Ashu0378/Leetcode/tree/master/2810-faulty-keyboard) |
 | [2833-furthest-point-from-origin](https://github.com/Ashu0378/Leetcode/tree/master/2833-furthest-point-from-origin) |
