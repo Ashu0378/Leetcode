@@ -189,6 +189,7 @@ Solving DSA problems daily
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/Ashu0378/Leetcode/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ashu0378/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2490-circular-sentence](https://github.com/Ashu0378/Leetcode/tree/master/2490-circular-sentence) |
+| [2810-faulty-keyboard](https://github.com/Ashu0378/Leetcode/tree/master/2810-faulty-keyboard) |
 | [2833-furthest-point-from-origin](https://github.com/Ashu0378/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3110-score-of-a-string](https://github.com/Ashu0378/Leetcode/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/Ashu0378/Leetcode/tree/master/3136-valid-word) |
@@ -252,6 +253,7 @@ Solving DSA problems daily
 | [0059-spiral-matrix-ii](https://github.com/Ashu0378/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0657-robot-return-to-origin](https://github.com/Ashu0378/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashu0378/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2810-faulty-keyboard](https://github.com/Ashu0378/Leetcode/tree/master/2810-faulty-keyboard) |
 | [3842-toggle-light-bulbs](https://github.com/Ashu0378/Leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Math
 |  |
