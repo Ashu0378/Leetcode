@@ -255,6 +255,7 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ashu0378/Leetcode/tree/master/0204-count-primes) |
+| [0292-nim-game](https://github.com/Ashu0378/Leetcode/tree/master/0292-nim-game) |
 | [0728-self-dividing-numbers](https://github.com/Ashu0378/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ashu0378/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/Ashu0378/Leetcode/tree/master/1323-maximum-69-number) |
@@ -356,4 +357,12 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ashu0378/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Ashu0378/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Ashu0378/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
