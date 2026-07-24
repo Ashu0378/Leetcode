@@ -28,6 +28,7 @@ Solving DSA problems daily
 | [0347-top-k-frequent-elements](https://github.com/Ashu0378/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/Ashu0378/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Ashu0378/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/Ashu0378/Leetcode/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/Ashu0378/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashu0378/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ashu0378/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -237,6 +238,7 @@ Solving DSA problems daily
 | [0179-largest-number](https://github.com/Ashu0378/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Ashu0378/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Ashu0378/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/Ashu0378/Leetcode/tree/master/0506-relative-ranks) |
 | [1331-rank-transform-of-an-array](https://github.com/Ashu0378/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Ashu0378/Leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ashu0378/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -306,6 +308,7 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ashu0378/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/Ashu0378/Leetcode/tree/master/0506-relative-ranks) |
 ## Bucket Sort
 |  |
 | ------- |
