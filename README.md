@@ -200,6 +200,7 @@ Solving DSA problems daily
 | [2833-furthest-point-from-origin](https://github.com/Ashu0378/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3110-score-of-a-string](https://github.com/Ashu0378/Leetcode/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/Ashu0378/Leetcode/tree/master/3136-valid-word) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ashu0378/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -256,6 +257,7 @@ Solving DSA problems daily
 | [1710-maximum-units-on-a-truck](https://github.com/Ashu0378/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ashu0378/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ashu0378/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ashu0378/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ashu0378/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3842-toggle-light-bulbs](https://github.com/Ashu0378/Leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Simulation
@@ -384,6 +386,7 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ashu0378/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ashu0378/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Brainteaser
 |  |
 | ------- |
