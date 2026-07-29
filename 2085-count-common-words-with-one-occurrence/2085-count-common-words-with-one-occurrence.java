@@ -10,9 +10,9 @@ class Solution {
         }
         int count=0;
 
-        for(String s:map1.keySet()) {
-            if(map1.get(s)==1 && map2.getOrDefault(s,0)==1) {
-                count++; 
+        for(String w1:words1){
+            if(map1.get(w1)==1 && map2.getOrDefault(w1,0)==1){
+                count++;
             }
         }
         
