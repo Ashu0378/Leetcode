@@ -27,6 +27,7 @@ Solving DSA problems daily
 | [0219-contains-duplicate-ii](https://github.com/Ashu0378/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ashu0378/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Ashu0378/Leetcode/tree/master/0260-single-number-iii) |
+| [0303-range-sum-query-immutable](https://github.com/Ashu0378/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Ashu0378/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/Ashu0378/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Ashu0378/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -237,6 +238,7 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ashu0378/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Ashu0378/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/Ashu0378/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashu0378/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Greedy
@@ -416,4 +418,8 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Ashu0378/Leetcode/tree/master/0292-nim-game) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Ashu0378/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
