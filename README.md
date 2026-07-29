@@ -57,6 +57,7 @@ Solving DSA problems daily
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashu0378/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ashu0378/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ashu0378/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Ashu0378/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ashu0378/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ashu0378/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashu0378/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -83,6 +84,7 @@ Solving DSA problems daily
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ashu0378/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ashu0378/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ashu0378/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Ashu0378/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2716-minimize-string-length](https://github.com/Ashu0378/Leetcode/tree/master/2716-minimize-string-length) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ashu0378/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3842-toggle-light-bulbs](https://github.com/Ashu0378/Leetcode/tree/master/3842-toggle-light-bulbs) |
@@ -201,6 +203,7 @@ Solving DSA problems daily
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Ashu0378/Leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ashu0378/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/Ashu0378/Leetcode/tree/master/2047-number-of-valid-words-in-a-sentence) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Ashu0378/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ashu0378/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ashu0378/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Ashu0378/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -327,6 +330,7 @@ Solving DSA problems daily
 | [0884-uncommon-words-from-two-sentences](https://github.com/Ashu0378/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ashu0378/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Ashu0378/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Ashu0378/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashu0378/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-furthest-point-from-origin](https://github.com/Ashu0378/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Stack
