@@ -95,6 +95,7 @@ Solving DSA problems daily
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ashu0378/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2716-minimize-string-length](https://github.com/Ashu0378/Leetcode/tree/master/2716-minimize-string-length) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ashu0378/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashu0378/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3842-toggle-light-bulbs](https://github.com/Ashu0378/Leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Binary Search
 |  |
@@ -221,6 +222,7 @@ Solving DSA problems daily
 | [2810-faulty-keyboard](https://github.com/Ashu0378/Leetcode/tree/master/2810-faulty-keyboard) |
 | [2833-furthest-point-from-origin](https://github.com/Ashu0378/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashu0378/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashu0378/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3110-score-of-a-string](https://github.com/Ashu0378/Leetcode/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/Ashu0378/Leetcode/tree/master/3136-valid-word) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ashu0378/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -271,6 +273,7 @@ Solving DSA problems daily
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Ashu0378/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ashu0378/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashu0378/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashu0378/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -289,6 +292,7 @@ Solving DSA problems daily
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ashu0378/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Ashu0378/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ashu0378/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashu0378/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ashu0378/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ashu0378/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3842-toggle-light-bulbs](https://github.com/Ashu0378/Leetcode/tree/master/3842-toggle-light-bulbs) |
@@ -351,6 +355,7 @@ Solving DSA problems daily
 | [2085-count-common-words-with-one-occurrence](https://github.com/Ashu0378/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashu0378/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-furthest-point-from-origin](https://github.com/Ashu0378/Leetcode/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashu0378/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
 | ------- |
