@@ -16,6 +16,7 @@ Solving DSA problems daily
 | [0055-jump-game](https://github.com/Ashu0378/Leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Ashu0378/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Ashu0378/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Ashu0378/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ashu0378/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ashu0378/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ashu0378/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -112,6 +113,7 @@ Solving DSA problems daily
 | [0039-combination-sum](https://github.com/Ashu0378/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ashu0378/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Ashu0378/Leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Ashu0378/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ashu0378/Leetcode/tree/master/0079-word-search) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ashu0378/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Depth-First Search
@@ -340,6 +342,7 @@ Solving DSA problems daily
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ashu0378/Leetcode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Ashu0378/Leetcode/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/Ashu0378/Leetcode/tree/master/0260-single-number-iii) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ashu0378/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
