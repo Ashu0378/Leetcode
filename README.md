@@ -15,6 +15,7 @@ Solving DSA problems daily
 | [0046-permutations](https://github.com/Ashu0378/Leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Ashu0378/Leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Ashu0378/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Ashu0378/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ashu0378/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Ashu0378/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ashu0378/Leetcode/tree/master/0078-subsets) |
@@ -155,6 +156,7 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Ashu0378/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Ashu0378/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ashu0378/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Ashu0378/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Ashu0378/Leetcode/tree/master/0130-surrounded-regions) |
@@ -241,6 +243,7 @@ Solving DSA problems daily
 | [0032-longest-valid-parentheses](https://github.com/Ashu0378/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/Ashu0378/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Ashu0378/Leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Ashu0378/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ashu0378/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0392-is-subsequence](https://github.com/Ashu0378/Leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Ashu0378/Leetcode/tree/master/0486-predict-the-winner) |
