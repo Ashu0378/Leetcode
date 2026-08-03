@@ -48,6 +48,7 @@ Solving DSA problems daily
 | [1331-rank-transform-of-an-array](https://github.com/Ashu0378/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ashu0378/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Ashu0378/Leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1406-stone-game-iii](https://github.com/Ashu0378/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashu0378/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Ashu0378/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/Ashu0378/Leetcode/tree/master/1528-shuffle-string) |
@@ -240,6 +241,7 @@ Solving DSA problems daily
 | [0392-is-subsequence](https://github.com/Ashu0378/Leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Ashu0378/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ashu0378/Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Ashu0378/Leetcode/tree/master/1406-stone-game-iii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -325,6 +327,7 @@ Solving DSA problems daily
 | [0877-stone-game](https://github.com/Ashu0378/Leetcode/tree/master/0877-stone-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ashu0378/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/Ashu0378/Leetcode/tree/master/1323-maximum-69-number) |
+| [1406-stone-game-iii](https://github.com/Ashu0378/Leetcode/tree/master/1406-stone-game-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ashu0378/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/Ashu0378/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashu0378/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -457,8 +460,17 @@ Solving DSA problems daily
 | [0292-nim-game](https://github.com/Ashu0378/Leetcode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Ashu0378/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ashu0378/Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Ashu0378/Leetcode/tree/master/1406-stone-game-iii) |
 ## Design
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Ashu0378/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Ashu0378/Leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Ashu0378/Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
