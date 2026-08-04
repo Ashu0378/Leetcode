@@ -44,6 +44,7 @@ Solving DSA problems daily
 | [0560-subarray-sum-equals-k](https://github.com/Ashu0378/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ashu0378/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0811-subdomain-visit-count](https://github.com/Ashu0378/Leetcode/tree/master/0811-subdomain-visit-count) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Ashu0378/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Ashu0378/Leetcode/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/Ashu0378/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ashu0378/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -110,6 +111,7 @@ Solving DSA problems daily
 | [0004-median-of-two-sorted-arrays](https://github.com/Ashu0378/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ashu0378/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ashu0378/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Ashu0378/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ashu0378/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Ashu0378/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashu0378/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -482,4 +484,8 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Ashu0378/Leetcode/tree/master/1406-stone-game-iii) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Ashu0378/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
