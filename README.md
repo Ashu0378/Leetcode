@@ -71,6 +71,7 @@ Solving DSA problems daily
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ashu0378/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ashu0378/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Ashu0378/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ashu0378/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ashu0378/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ashu0378/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashu0378/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -114,6 +115,7 @@ Solving DSA problems daily
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ashu0378/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ashu0378/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Ashu0378/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ashu0378/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashu0378/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Backtracking
 |  |
@@ -311,6 +313,7 @@ Solving DSA problems daily
 | [1710-maximum-units-on-a-truck](https://github.com/Ashu0378/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ashu0378/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ashu0378/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ashu0378/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Ashu0378/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ashu0378/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashu0378/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
