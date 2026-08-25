@@ -47,6 +47,7 @@ Solving DSA problems daily
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ashu0378/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Ashu0378/Leetcode/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/Ashu0378/Leetcode/tree/master/0890-find-and-replace-pattern) |
+| [0980-unique-paths-iii](https://github.com/Ashu0378/Leetcode/tree/master/0980-unique-paths-iii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ashu0378/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1331-rank-transform-of-an-array](https://github.com/Ashu0378/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ashu0378/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -125,6 +126,7 @@ Solving DSA problems daily
 | [0046-permutations](https://github.com/Ashu0378/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Ashu0378/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ashu0378/Leetcode/tree/master/0079-word-search) |
+| [0980-unique-paths-iii](https://github.com/Ashu0378/Leetcode/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ashu0378/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Depth-First Search
 |  |
@@ -168,6 +170,7 @@ Solving DSA problems daily
 | [0200-number-of-islands](https://github.com/Ashu0378/Leetcode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Ashu0378/Leetcode/tree/master/0289-game-of-life) |
 | [0463-island-perimeter](https://github.com/Ashu0378/Leetcode/tree/master/0463-island-perimeter) |
+| [0980-unique-paths-iii](https://github.com/Ashu0378/Leetcode/tree/master/0980-unique-paths-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ashu0378/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ashu0378/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -374,6 +377,7 @@ Solving DSA problems daily
 | [0078-subsets](https://github.com/Ashu0378/Leetcode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Ashu0378/Leetcode/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/Ashu0378/Leetcode/tree/master/0260-single-number-iii) |
+| [0980-unique-paths-iii](https://github.com/Ashu0378/Leetcode/tree/master/0980-unique-paths-iii) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ashu0378/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ashu0378/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Counting
@@ -495,4 +499,8 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ashu0378/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Ashu0378/Leetcode/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
