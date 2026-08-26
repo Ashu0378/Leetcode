@@ -27,6 +27,7 @@ Solving DSA problems daily
 | [0179-largest-number](https://github.com/Ashu0378/Leetcode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Ashu0378/Leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Ashu0378/Leetcode/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/Ashu0378/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Ashu0378/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Ashu0378/Leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Ashu0378/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -113,6 +114,7 @@ Solving DSA problems daily
 | [0004-median-of-two-sorted-arrays](https://github.com/Ashu0378/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ashu0378/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ashu0378/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Ashu0378/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ashu0378/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ashu0378/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Ashu0378/Leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -261,6 +263,7 @@ Solving DSA problems daily
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Ashu0378/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Ashu0378/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ashu0378/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Divide and Conquer
@@ -274,6 +277,7 @@ Solving DSA problems daily
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Ashu0378/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Ashu0378/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Ashu0378/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/Ashu0378/Leetcode/tree/master/0525-contiguous-array) |
