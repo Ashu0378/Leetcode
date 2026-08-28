@@ -59,6 +59,7 @@ Solving DSA problems daily
 | [1470-shuffle-the-array](https://github.com/Ashu0378/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/Ashu0378/Leetcode/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/Ashu0378/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Ashu0378/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ashu0378/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ashu0378/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ashu0378/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -300,6 +301,7 @@ Solving DSA problems daily
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ashu0378/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/Ashu0378/Leetcode/tree/master/1323-maximum-69-number) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Ashu0378/Leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Ashu0378/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1710-maximum-units-on-a-truck](https://github.com/Ashu0378/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Ashu0378/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ashu0378/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -323,6 +325,7 @@ Solving DSA problems daily
 | [1331-rank-transform-of-an-array](https://github.com/Ashu0378/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Ashu0378/Leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashu0378/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Ashu0378/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ashu0378/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1710-maximum-units-on-a-truck](https://github.com/Ashu0378/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ashu0378/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -357,6 +360,7 @@ Solving DSA problems daily
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ashu0378/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/Ashu0378/Leetcode/tree/master/1323-maximum-69-number) |
 | [1406-stone-game-iii](https://github.com/Ashu0378/Leetcode/tree/master/1406-stone-game-iii) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Ashu0378/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ashu0378/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/Ashu0378/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashu0378/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -494,6 +498,7 @@ Solving DSA problems daily
 | [0486-predict-the-winner](https://github.com/Ashu0378/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ashu0378/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Ashu0378/Leetcode/tree/master/1406-stone-game-iii) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Ashu0378/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Design
 |  |
 | ------- |
