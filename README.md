@@ -98,6 +98,7 @@ Solving DSA problems daily
 | [0500-keyboard-row](https://github.com/Ashu0378/Leetcode/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/Ashu0378/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashu0378/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0763-partition-labels](https://github.com/Ashu0378/Leetcode/tree/master/0763-partition-labels) |
 | [0811-subdomain-visit-count](https://github.com/Ashu0378/Leetcode/tree/master/0811-subdomain-visit-count) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Ashu0378/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0890-find-and-replace-pattern](https://github.com/Ashu0378/Leetcode/tree/master/0890-find-and-replace-pattern) |
@@ -190,6 +191,7 @@ Solving DSA problems daily
 | [0151-reverse-words-in-a-string](https://github.com/Ashu0378/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Ashu0378/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Ashu0378/Leetcode/tree/master/0443-string-compression) |
+| [0763-partition-labels](https://github.com/Ashu0378/Leetcode/tree/master/0763-partition-labels) |
 | [0917-reverse-only-letters](https://github.com/Ashu0378/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/Ashu0378/Leetcode/tree/master/0925-long-pressed-name) |
 | [1768-merge-strings-alternately](https://github.com/Ashu0378/Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -218,6 +220,7 @@ Solving DSA problems daily
 | [0520-detect-capital](https://github.com/Ashu0378/Leetcode/tree/master/0520-detect-capital) |
 | [0606-construct-string-from-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0657-robot-return-to-origin](https://github.com/Ashu0378/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0763-partition-labels](https://github.com/Ashu0378/Leetcode/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/Ashu0378/Leetcode/tree/master/0796-rotate-string) |
 | [0811-subdomain-visit-count](https://github.com/Ashu0378/Leetcode/tree/master/0811-subdomain-visit-count) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Ashu0378/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -299,6 +302,7 @@ Solving DSA problems daily
 | [0055-jump-game](https://github.com/Ashu0378/Leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Ashu0378/Leetcode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Ashu0378/Leetcode/tree/master/0409-longest-palindrome) |
+| [0763-partition-labels](https://github.com/Ashu0378/Leetcode/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ashu0378/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ashu0378/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/Ashu0378/Leetcode/tree/master/1323-maximum-69-number) |
