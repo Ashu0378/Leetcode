@@ -41,6 +41,7 @@ Solving DSA problems daily
 | [0486-predict-the-winner](https://github.com/Ashu0378/Leetcode/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/Ashu0378/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Ashu0378/Leetcode/tree/master/0506-relative-ranks) |
+| [0523-continuous-subarray-sum](https://github.com/Ashu0378/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Ashu0378/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashu0378/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ashu0378/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -98,6 +99,7 @@ Solving DSA problems daily
 | [0409-longest-palindrome](https://github.com/Ashu0378/Leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ashu0378/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/Ashu0378/Leetcode/tree/master/0500-keyboard-row) |
+| [0523-continuous-subarray-sum](https://github.com/Ashu0378/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Ashu0378/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashu0378/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/Ashu0378/Leetcode/tree/master/0763-partition-labels) |
@@ -297,6 +299,7 @@ Solving DSA problems daily
 | [0209-minimum-size-subarray-sum](https://github.com/Ashu0378/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Ashu0378/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Ashu0378/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/Ashu0378/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Ashu0378/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashu0378/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ashu0378/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -370,6 +373,7 @@ Solving DSA problems daily
 | [0204-count-primes](https://github.com/Ashu0378/Leetcode/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/Ashu0378/Leetcode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Ashu0378/Leetcode/tree/master/0486-predict-the-winner) |
+| [0523-continuous-subarray-sum](https://github.com/Ashu0378/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0728-self-dividing-numbers](https://github.com/Ashu0378/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/Ashu0378/Leetcode/tree/master/0877-stone-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ashu0378/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -539,4 +543,8 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Ashu0378/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Ashu0378/Leetcode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
