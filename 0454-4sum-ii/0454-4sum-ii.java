@@ -11,9 +11,10 @@ class Solution {
         for(int c:nums3){
             for(int d:nums4){
                 int sum=-(c+d);
-                if(map.containsKey(sum)){
-                    count+=map.get(sum);
-                }
+                // if(map.containsKey(sum)){
+                //     count+=map.get(sum);
+                // }
+                count+=map.getOrDefault(sum,0);
             }
         }
         return count;
