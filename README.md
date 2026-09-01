@@ -67,6 +67,7 @@ Solving DSA problems daily
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Ashu0378/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ashu0378/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ashu0378/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Ashu0378/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ashu0378/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1710-maximum-units-on-a-truck](https://github.com/Ashu0378/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ashu0378/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -114,6 +115,7 @@ Solving DSA problems daily
 | [1331-rank-transform-of-an-array](https://github.com/Ashu0378/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ashu0378/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ashu0378/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Ashu0378/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ashu0378/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ashu0378/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Ashu0378/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -204,6 +206,7 @@ Solving DSA problems daily
 | [0763-partition-labels](https://github.com/Ashu0378/Leetcode/tree/master/0763-partition-labels) |
 | [0917-reverse-only-letters](https://github.com/Ashu0378/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/Ashu0378/Leetcode/tree/master/0925-long-pressed-name) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Ashu0378/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Ashu0378/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ashu0378/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashu0378/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -354,6 +357,7 @@ Solving DSA problems daily
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashu0378/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ashu0378/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ashu0378/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Ashu0378/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1710-maximum-units-on-a-truck](https://github.com/Ashu0378/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ashu0378/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ashu0378/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
