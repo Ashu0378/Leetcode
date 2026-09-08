@@ -96,6 +96,7 @@ Solving DSA problems daily
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Ashu0378/Leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ashu0378/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashu0378/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Ashu0378/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ashu0378/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3842-toggle-light-bulbs](https://github.com/Ashu0378/Leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ashu0378/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -136,6 +137,7 @@ Solving DSA problems daily
 | [2085-count-common-words-with-one-occurrence](https://github.com/Ashu0378/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ashu0378/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2716-minimize-string-length](https://github.com/Ashu0378/Leetcode/tree/master/2716-minimize-string-length) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Ashu0378/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ashu0378/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashu0378/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3842-toggle-light-bulbs](https://github.com/Ashu0378/Leetcode/tree/master/3842-toggle-light-bulbs) |
@@ -324,6 +326,7 @@ Solving DSA problems daily
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ashu0378/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ashu0378/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ashu0378/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Ashu0378/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
