@@ -100,6 +100,7 @@ Solving DSA problems daily
 | [2965-find-missing-and-repeated-values](https://github.com/Ashu0378/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3842-toggle-light-bulbs](https://github.com/Ashu0378/Leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ashu0378/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3895-count-digit-appearances](https://github.com/Ashu0378/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/Ashu0378/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
@@ -454,6 +455,7 @@ Solving DSA problems daily
 | [3783-mirror-distance-of-an-integer](https://github.com/Ashu0378/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Ashu0378/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ashu0378/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3895-count-digit-appearances](https://github.com/Ashu0378/Leetcode/tree/master/3895-count-digit-appearances) |
 ## Number Theory
 |  |
 | ------- |
