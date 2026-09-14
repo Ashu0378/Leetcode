@@ -437,6 +437,7 @@ Solving DSA problems daily
 | [0486-predict-the-winner](https://github.com/Ashu0378/Leetcode/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Ashu0378/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0728-self-dividing-numbers](https://github.com/Ashu0378/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/Ashu0378/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Ashu0378/Leetcode/tree/master/0877-stone-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ashu0378/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ashu0378/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -634,4 +635,8 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashu0378/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Ashu0378/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
