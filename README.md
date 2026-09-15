@@ -167,6 +167,7 @@ Solving DSA problems daily
 | [0046-permutations](https://github.com/Ashu0378/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Ashu0378/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ashu0378/Leetcode/tree/master/0079-word-search) |
+| [0797-all-paths-from-source-to-target](https://github.com/Ashu0378/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/Ashu0378/Leetcode/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ashu0378/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Depth-First Search
@@ -184,6 +185,7 @@ Solving DSA problems daily
 | [0463-island-perimeter](https://github.com/Ashu0378/Leetcode/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Ashu0378/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0606-construct-string-from-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/Ashu0378/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1302-deepest-leaves-sum](https://github.com/Ashu0378/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ashu0378/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -197,6 +199,7 @@ Solving DSA problems daily
 | [0200-number-of-islands](https://github.com/Ashu0378/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Ashu0378/Leetcode/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Ashu0378/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0797-all-paths-from-source-to-target](https://github.com/Ashu0378/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1302-deepest-leaves-sum](https://github.com/Ashu0378/Leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Union-Find
 |  |
@@ -639,4 +642,12 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Ashu0378/Leetcode/tree/master/0836-rectangle-overlap) |
+## Graph Theory
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Ashu0378/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Ashu0378/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
