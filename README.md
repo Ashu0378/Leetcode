@@ -187,6 +187,7 @@ Solving DSA problems daily
 | [0513-find-bottom-left-tree-value](https://github.com/Ashu0378/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0606-construct-string-from-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ashu0378/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Ashu0378/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ashu0378/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1302-deepest-leaves-sum](https://github.com/Ashu0378/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ashu0378/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -546,6 +547,7 @@ Solving DSA problems daily
 | [0199-binary-tree-right-side-view](https://github.com/Ashu0378/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/Ashu0378/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0606-construct-string-from-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Ashu0378/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ashu0378/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1302-deepest-leaves-sum](https://github.com/Ashu0378/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ashu0378/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -562,6 +564,7 @@ Solving DSA problems daily
 | [0199-binary-tree-right-side-view](https://github.com/Ashu0378/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/Ashu0378/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0606-construct-string-from-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Ashu0378/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ashu0378/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1302-deepest-leaves-sum](https://github.com/Ashu0378/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ashu0378/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
