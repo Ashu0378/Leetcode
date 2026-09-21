@@ -146,6 +146,7 @@ Solving DSA problems daily
 | [2965-find-missing-and-repeated-values](https://github.com/Ashu0378/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashu0378/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ashu0378/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Ashu0378/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3842-toggle-light-bulbs](https://github.com/Ashu0378/Leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Binary Search
 |  |
@@ -315,6 +316,7 @@ Solving DSA problems daily
 | [3110-score-of-a-string](https://github.com/Ashu0378/Leetcode/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/Ashu0378/Leetcode/tree/master/3136-valid-word) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ashu0378/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Ashu0378/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Dynamic Programming
 |  |
 | ------- |
