@@ -445,6 +445,7 @@ Solving DSA problems daily
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Ashu0378/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Ashu0378/Leetcode/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/Ashu0378/Leetcode/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/Ashu0378/Leetcode/tree/master/0292-nim-game) |
@@ -521,6 +522,7 @@ Solving DSA problems daily
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Ashu0378/Leetcode/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/Ashu0378/Leetcode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Ashu0378/Leetcode/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ashu0378/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
