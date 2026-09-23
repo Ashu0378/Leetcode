@@ -1,37 +1,39 @@
 class Solution {
-    public int[] findOrder(int numCourses, int[][] prerequisites) {
-        int n=numCourses;
+    public int[] findOrder(int n, int[][] pre) {
         List<List<Integer>> adj=new ArrayList<>();
         for(int i=0;i<n;i++){
             adj.add(new ArrayList<>());
         }
-        for(int[] p:prerequisites){
-            adj.get(p[1]).add(p[0]);
+        int[] inDeg=new int[n];
+        for(int i=0;i<pre.length;i++){
+            int a=pre[i][0];
+            int b=pre[i][1];
+            adj.get(b).add(a);
+            inDeg[a]++;
         }
-        Map<Integer,Integer> visited=new HashMap<>();
-        for(int i = 0; i < n; i++){
-            visited.put(i,0);
-        }
+        Queue<Integer> q=new LinkedList<>();
         List<Integer> ans=new ArrayList<>();
         for(int i=0;i<n;i++){
-            if(!dfs(i,visited,adj,ans)) return new int[0];
+            if(inDeg[i]==0){
+                q.add(i);
+            }
         }
-        int[] result=new int[n];
-        for(int i=0;i<n;i++){
-            result[i]=ans.get(n-i-1);
+        while(q.size()>0){
+            int front=q.poll();
+            ans.add(front);
+            for(int ele:adj.get(front)){
+                inDeg[ele]--;
+                if(inDeg[ele]==0){
+                    q.add(ele);
+                }
+
+            }
         }
-        return result;
-    }
-    public boolean dfs(int i,Map<Integer,Integer> visited,List<List<Integer>> adj,List<Integer> res){
-        int visit=visited.get(i);
-        if(visit==2) return true;
-        if(visit==1) return false;
-        visited.put(i,1);
-        for(int ele:adj.get(i)){
-            if(!dfs(ele,visited,adj,res)) return false;
+        int[] res=new int[n];
+        for(int i=0;i<ans.size();i++){
+            res[i]=ans.get(i);
         }
-        visited.put(i,2);
-        res.add(i);
-        return true;
+        if(ans.size()==n) return res;
+        return new int[]{};
     }
 }
