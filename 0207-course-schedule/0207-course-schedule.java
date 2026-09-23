@@ -1,30 +1,36 @@
 class Solution {
-    public boolean canFinish(int numCourses, int[][] prerequisites) {
-        int n=numCourses;
+    public boolean canFinish(int n, int[][] pre) {
+        //topo sort
         List<List<Integer>> adj=new ArrayList<>();
         for(int i=0;i<n;i++){
             adj.add(new ArrayList<>());
         }
-        for(int[] p:prerequisites){
-            adj.get(p[1]).add(p[0]);
+        int[] inDeg=new int[n];
+        for(int i=0;i<pre.length;i++){
+            int a=pre[i][0];
+            int b=pre[i][1];
+            adj.get(b).add(a);
+            inDeg[a]++;
         }
-        boolean[] isVisited=new boolean[n];
-        boolean[] path=new boolean[n];
+        Queue<Integer> q=new LinkedList<>();
+        List<Integer> ans=new ArrayList<>();
         for(int i=0;i<n;i++){
-            if(!isVisited[i]){
-                if(dfs(i,adj,isVisited,path)) return false;
+            if(inDeg[i]==0){
+                q.add(i);
             }
         }
-        return true;
-    }
-    public boolean dfs(int curr,List<List<Integer>> adj,boolean[] vis,boolean[] path){
-        vis[curr]=true;
-        path[curr]=true;
-        for(int a:adj.get(curr)){
-            if(!vis[a] && dfs(a,adj,vis,path)) return true;
-            else if(path[a]) return true;
+        while(q.size()>0){
+            int front=q.poll();
+            ans.add(front);
+            for(int ele:adj.get(front)){
+                inDeg[ele]--;
+                if(inDeg[ele]==0){
+                    q.add(ele);
+                }
+
+            }
         }
-        path[curr]=false;
+        if(ans.size()==n) return true;
         return false;
     }
 }
