@@ -68,6 +68,7 @@ Solving DSA problems daily
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashu0378/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Ashu0378/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ashu0378/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1514-path-with-maximum-probability](https://github.com/Ashu0378/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1528-shuffle-string](https://github.com/Ashu0378/Leetcode/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/Ashu0378/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ashu0378/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -547,6 +548,7 @@ Solving DSA problems daily
 | [0506-relative-ranks](https://github.com/Ashu0378/Leetcode/tree/master/0506-relative-ranks) |
 | [0743-network-delay-time](https://github.com/Ashu0378/Leetcode/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashu0378/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1514-path-with-maximum-probability](https://github.com/Ashu0378/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ashu0378/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Bucket Sort
 |  |
@@ -684,6 +686,7 @@ Solving DSA problems daily
 | [0743-network-delay-time](https://github.com/Ashu0378/Leetcode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ashu0378/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Ashu0378/Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [1514-path-with-maximum-probability](https://github.com/Ashu0378/Leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -719,8 +722,10 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Ashu0378/Leetcode/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/Ashu0378/Leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Ashu0378/Leetcode/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/Ashu0378/Leetcode/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
