@@ -199,6 +199,7 @@ Solving DSA problems daily
 | [0513-find-bottom-left-tree-value](https://github.com/Ashu0378/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0606-construct-string-from-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0743-network-delay-time](https://github.com/Ashu0378/Leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ashu0378/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ashu0378/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Ashu0378/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Ashu0378/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -220,6 +221,7 @@ Solving DSA problems daily
 | [0463-island-perimeter](https://github.com/Ashu0378/Leetcode/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Ashu0378/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0743-network-delay-time](https://github.com/Ashu0378/Leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ashu0378/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ashu0378/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Ashu0378/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ashu0378/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -345,6 +347,7 @@ Solving DSA problems daily
 | [0064-minimum-path-sum](https://github.com/Ashu0378/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0392-is-subsequence](https://github.com/Ashu0378/Leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Ashu0378/Leetcode/tree/master/0486-predict-the-winner) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ashu0378/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Ashu0378/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Ashu0378/Leetcode/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ashu0378/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -553,6 +556,7 @@ Solving DSA problems daily
 | [0451-sort-characters-by-frequency](https://github.com/Ashu0378/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Ashu0378/Leetcode/tree/master/0506-relative-ranks) |
 | [0743-network-delay-time](https://github.com/Ashu0378/Leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ashu0378/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashu0378/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/Ashu0378/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Ashu0378/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -691,6 +695,7 @@ Solving DSA problems daily
 | [0207-course-schedule](https://github.com/Ashu0378/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ashu0378/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/Ashu0378/Leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ashu0378/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ashu0378/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Ashu0378/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1514-path-with-maximum-probability](https://github.com/Ashu0378/Leetcode/tree/master/1514-path-with-maximum-probability) |
@@ -729,6 +734,7 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Ashu0378/Leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ashu0378/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/Ashu0378/Leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
