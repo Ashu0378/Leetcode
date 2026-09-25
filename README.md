@@ -127,6 +127,7 @@ Solving DSA problems daily
 | [0523-continuous-subarray-sum](https://github.com/Ashu0378/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Ashu0378/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashu0378/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0652-find-duplicate-subtrees](https://github.com/Ashu0378/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0763-partition-labels](https://github.com/Ashu0378/Leetcode/tree/master/0763-partition-labels) |
 | [0811-subdomain-visit-count](https://github.com/Ashu0378/Leetcode/tree/master/0811-subdomain-visit-count) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -200,6 +201,7 @@ Solving DSA problems daily
 | [0513-find-bottom-left-tree-value](https://github.com/Ashu0378/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/Ashu0378/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Ashu0378/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0743-network-delay-time](https://github.com/Ashu0378/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ashu0378/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ashu0378/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
@@ -592,6 +594,7 @@ Solving DSA problems daily
 | [0513-find-bottom-left-tree-value](https://github.com/Ashu0378/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/Ashu0378/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Ashu0378/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Ashu0378/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ashu0378/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -613,6 +616,7 @@ Solving DSA problems daily
 | [0513-find-bottom-left-tree-value](https://github.com/Ashu0378/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/Ashu0378/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Ashu0378/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Ashu0378/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ashu0378/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
