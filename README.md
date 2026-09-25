@@ -72,6 +72,7 @@ Solving DSA problems daily
 | [1528-shuffle-string](https://github.com/Ashu0378/Leetcode/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/Ashu0378/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ashu0378/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Ashu0378/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Ashu0378/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1631-path-with-minimum-effort](https://github.com/Ashu0378/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ashu0378/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -240,6 +241,7 @@ Solving DSA problems daily
 | ------- |
 | [0130-surrounded-regions](https://github.com/Ashu0378/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ashu0378/Leetcode/tree/master/0200-number-of-islands) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Ashu0378/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Ashu0378/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
@@ -716,6 +718,7 @@ Solving DSA problems daily
 | [0797-all-paths-from-source-to-target](https://github.com/Ashu0378/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Ashu0378/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1514-path-with-maximum-probability](https://github.com/Ashu0378/Leetcode/tree/master/1514-path-with-maximum-probability) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Ashu0378/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -763,4 +766,20 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Ashu0378/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Ashu0378/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Ashu0378/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Ashu0378/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Ashu0378/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
