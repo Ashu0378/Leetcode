@@ -212,6 +212,7 @@ Solving DSA problems daily
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Ashu0378/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ashu0378/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1302-deepest-leaves-sum](https://github.com/Ashu0378/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Ashu0378/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -606,6 +607,7 @@ Solving DSA problems daily
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Ashu0378/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ashu0378/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1302-deepest-leaves-sum](https://github.com/Ashu0378/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ashu0378/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -630,6 +632,7 @@ Solving DSA problems daily
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Ashu0378/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ashu0378/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1302-deepest-leaves-sum](https://github.com/Ashu0378/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ashu0378/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
