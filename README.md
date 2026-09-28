@@ -203,6 +203,7 @@ Solving DSA problems daily
 | [0207-course-schedule](https://github.com/Ashu0378/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ashu0378/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ashu0378/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Ashu0378/Leetcode/tree/master/0337-house-robber-iii) |
 | [0463-island-perimeter](https://github.com/Ashu0378/Leetcode/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Ashu0378/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -237,6 +238,7 @@ Solving DSA problems daily
 | [0200-number-of-islands](https://github.com/Ashu0378/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ashu0378/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ashu0378/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/Ashu0378/Leetcode/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Ashu0378/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0743-network-delay-time](https://github.com/Ashu0378/Leetcode/tree/master/0743-network-delay-time) |
@@ -307,6 +309,7 @@ Solving DSA problems daily
 | [0205-isomorphic-strings](https://github.com/Ashu0378/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ashu0378/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Ashu0378/Leetcode/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/Ashu0378/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Ashu0378/Leetcode/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Ashu0378/Leetcode/tree/master/0409-longest-palindrome) |
@@ -621,6 +624,7 @@ Solving DSA problems daily
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ashu0378/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Ashu0378/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ashu0378/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Ashu0378/Leetcode/tree/master/0337-house-robber-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Ashu0378/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/Ashu0378/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -650,6 +654,7 @@ Solving DSA problems daily
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ashu0378/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Ashu0378/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ashu0378/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Ashu0378/Leetcode/tree/master/0337-house-robber-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Ashu0378/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/Ashu0378/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -713,6 +718,7 @@ Solving DSA problems daily
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Ashu0378/Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Minimax
 |  |
