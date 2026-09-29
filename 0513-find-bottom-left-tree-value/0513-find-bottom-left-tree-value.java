@@ -15,21 +15,19 @@
  */
 class Solution {
     public int findBottomLeftValue(TreeNode root) {
-        int left=0;
-        Queue<TreeNode> queue=new LinkedList<>();
-        queue.add(root);
-        while(!queue.isEmpty()){
-            int level=queue.size();
-            for(int i=0;i<level;i++){
-                TreeNode curr=queue.poll();
-                if(i==0){
-                    left=curr.val;
-                }
-                if(curr.left!=null) queue.add(curr.left);
-                if(curr.right!=null) queue.add(curr.right);
+        if(root==null) return -1;
+        Queue<TreeNode> q=new LinkedList<>();
+        int left=-1;
+        q.add(root);
+        while(q.size()>0){
+            int size=q.size();
+            for(int i=0;i<size;i++){
+                TreeNode front=q.poll();
+                if(i==0) left=front.val;
+                if(front.left!=null) q.add(front.left);
+                if(front.right!=null) q.add(front.right);
             }
         }
         return left;
-
     }
 }
