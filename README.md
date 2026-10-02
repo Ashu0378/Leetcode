@@ -182,6 +182,7 @@ Solving DSA problems daily
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ashu0378/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Ashu0378/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ashu0378/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Ashu0378/Leetcode/tree/master/0046-permutations) |
@@ -313,6 +314,7 @@ Solving DSA problems daily
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashu0378/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Ashu0378/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0022-generate-parentheses](https://github.com/Ashu0378/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ashu0378/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Ashu0378/Leetcode/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/Ashu0378/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -381,6 +383,7 @@ Solving DSA problems daily
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ashu0378/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ashu0378/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/Ashu0378/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Ashu0378/Leetcode/tree/master/0062-unique-paths) |
@@ -792,6 +795,7 @@ Solving DSA problems daily
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ashu0378/Leetcode/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashu0378/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Geometry
 |  |
