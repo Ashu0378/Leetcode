@@ -62,6 +62,7 @@ Solving DSA problems daily
 | [0930-binary-subarrays-with-sum](https://github.com/Ashu0378/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0980-unique-paths-iii](https://github.com/Ashu0378/Leetcode/tree/master/0980-unique-paths-iii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ashu0378/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/Ashu0378/Leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Ashu0378/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ashu0378/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ashu0378/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -268,6 +269,7 @@ Solving DSA problems daily
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ashu0378/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Ashu0378/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ashu0378/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ashu0378/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -297,6 +299,7 @@ Solving DSA problems daily
 | [0289-game-of-life](https://github.com/Ashu0378/Leetcode/tree/master/0289-game-of-life) |
 | [0463-island-perimeter](https://github.com/Ashu0378/Leetcode/tree/master/0463-island-perimeter) |
 | [0980-unique-paths-iii](https://github.com/Ashu0378/Leetcode/tree/master/0980-unique-paths-iii) |
+| [0994-rotting-oranges](https://github.com/Ashu0378/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ashu0378/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ashu0378/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ashu0378/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
