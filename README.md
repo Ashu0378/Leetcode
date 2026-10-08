@@ -225,6 +225,7 @@ Solving DSA problems daily
 | [0684-redundant-connection](https://github.com/Ashu0378/Leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Ashu0378/Leetcode/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ashu0378/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/Ashu0378/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ashu0378/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ashu0378/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Ashu0378/Leetcode/tree/master/0802-find-eventual-safe-states) |
@@ -265,6 +266,7 @@ Solving DSA problems daily
 | [0684-redundant-connection](https://github.com/Ashu0378/Leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Ashu0378/Leetcode/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ashu0378/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/Ashu0378/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ashu0378/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ashu0378/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Ashu0378/Leetcode/tree/master/0802-find-eventual-safe-states) |
@@ -287,6 +289,7 @@ Solving DSA problems daily
 | [0200-number-of-islands](https://github.com/Ashu0378/Leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Ashu0378/Leetcode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Ashu0378/Leetcode/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/Ashu0378/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Ashu0378/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ashu0378/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Ashu0378/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -830,6 +833,7 @@ Solving DSA problems daily
 | [0399-evaluate-division](https://github.com/Ashu0378/Leetcode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Ashu0378/Leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Ashu0378/Leetcode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Ashu0378/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ashu0378/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ashu0378/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Ashu0378/Leetcode/tree/master/0802-find-eventual-safe-states) |
@@ -937,4 +941,12 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0654-maximum-binary-tree) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Ashu0378/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Ashu0378/Leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
