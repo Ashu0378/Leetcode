@@ -214,6 +214,7 @@ Solving DSA problems daily
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ashu0378/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Ashu0378/Leetcode/tree/master/0337-house-robber-iii) |
+| [0386-lexicographical-numbers](https://github.com/Ashu0378/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/Ashu0378/Leetcode/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/Ashu0378/Leetcode/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Ashu0378/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -949,4 +950,8 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Ashu0378/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Ashu0378/Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
