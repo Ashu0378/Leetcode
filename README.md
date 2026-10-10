@@ -232,6 +232,7 @@ Solving DSA problems daily
 | [0802-find-eventual-safe-states](https://github.com/Ashu0378/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ashu0378/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/Ashu0378/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Ashu0378/Leetcode/tree/master/1020-number-of-enclaves) |
@@ -627,6 +628,7 @@ Solving DSA problems daily
 | [0032-longest-valid-parentheses](https://github.com/Ashu0378/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0394-decode-string](https://github.com/Ashu0378/Leetcode/tree/master/0394-decode-string) |
 | [0654-maximum-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Ashu0378/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ashu0378/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ashu0378/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashu0378/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -683,6 +685,7 @@ Solving DSA problems daily
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ashu0378/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ashu0378/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/Ashu0378/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ashu0378/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -722,6 +725,7 @@ Solving DSA problems daily
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ashu0378/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ashu0378/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/Ashu0378/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ashu0378/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -745,6 +749,7 @@ Solving DSA problems daily
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ashu0378/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ashu0378/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ashu0378/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/Ashu0378/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ashu0378/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ashu0378/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ashu0378/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
