@@ -355,6 +355,7 @@ Solving DSA problems daily
 | [0392-is-subsequence](https://github.com/Ashu0378/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Ashu0378/Leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Ashu0378/Leetcode/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/Ashu0378/Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Ashu0378/Leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ashu0378/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/Ashu0378/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
@@ -488,6 +489,7 @@ Solving DSA problems daily
 | [0135-candy](https://github.com/Ashu0378/Leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Ashu0378/Leetcode/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ashu0378/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0402-remove-k-digits](https://github.com/Ashu0378/Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Ashu0378/Leetcode/tree/master/0409-longest-palindrome) |
 | [0763-partition-labels](https://github.com/Ashu0378/Leetcode/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ashu0378/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -632,6 +634,7 @@ Solving DSA problems daily
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ashu0378/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0394-decode-string](https://github.com/Ashu0378/Leetcode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Ashu0378/Leetcode/tree/master/0402-remove-k-digits) |
 | [0654-maximum-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/Ashu0378/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ashu0378/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -947,6 +950,7 @@ Solving DSA problems daily
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Ashu0378/Leetcode/tree/master/0402-remove-k-digits) |
 | [0654-maximum-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ashu0378/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Cartesian Tree
