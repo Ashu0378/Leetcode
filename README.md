@@ -25,6 +25,7 @@ Solving DSA problems daily
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ashu0378/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ashu0378/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/Ashu0378/Leetcode/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/Ashu0378/Leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Ashu0378/Leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Ashu0378/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ashu0378/Leetcode/tree/master/0200-number-of-islands) |
@@ -482,6 +483,7 @@ Solving DSA problems daily
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ashu0378/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Ashu0378/Leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Ashu0378/Leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Ashu0378/Leetcode/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ashu0378/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/Ashu0378/Leetcode/tree/master/0409-longest-palindrome) |
