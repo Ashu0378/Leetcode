@@ -6,13 +6,12 @@ class Solution {
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 time[i][j]=Integer.MAX_VALUE;
-                
             }
         }
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(grid[i][j]==2){
-                    helper(grid,time,i,j,0);
+                    dfs(grid,time,i,j,0);
                 }
             }
         }
@@ -26,14 +25,17 @@ class Solution {
             }
         }
         return max;
+        
     }
-    public void helper(int[][] grid,int[][] time,int row,int col,int step){
-        if(row<0 || col<0 || row>=grid.length || col>=grid[0].length || grid[row][col]==0) return;
-        if(step>=time[row][col]) return;
-        time[row][col]=step;
-        helper(grid,time,row+1,col,step+1);
-        helper(grid,time,row-1,col,step+1);
-        helper(grid,time,row,col-1,step+1);
-        helper(grid,time,row,col+1,step+1);
+    public void dfs(int[][] grid,int[][] time,int i,int j,int step){
+        int n=grid.length;
+        int m=grid[0].length;
+        if(i<0 || j<0 || i>=n || j>=m || grid[i][j]==0) return;
+        if(step>time[i][j]) return;
+        time[i][j]=step;
+        dfs(grid,time,i+1,j,step+1);
+        dfs(grid,time,i-1,j,step+1);
+        dfs(grid,time,i,j+1,step+1);
+        dfs(grid,time,i,j-1,step+1);
     }
 }
