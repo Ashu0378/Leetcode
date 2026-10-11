@@ -343,6 +343,7 @@ Solving DSA problems daily
 | [0022-generate-parentheses](https://github.com/Ashu0378/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ashu0378/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Ashu0378/Leetcode/tree/master/0038-count-and-say) |
+| [0072-edit-distance](https://github.com/Ashu0378/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Ashu0378/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Ashu0378/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashu0378/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -417,6 +418,7 @@ Solving DSA problems daily
 | [0063-unique-paths-ii](https://github.com/Ashu0378/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ashu0378/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Ashu0378/Leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Ashu0378/Leetcode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/Ashu0378/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ashu0378/Leetcode/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/Ashu0378/Leetcode/tree/master/0337-house-robber-iii) |
