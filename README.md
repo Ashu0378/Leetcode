@@ -430,6 +430,7 @@ Solving DSA problems daily
 | [0746-min-cost-climbing-stairs](https://github.com/Ashu0378/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ashu0378/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Ashu0378/Leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Ashu0378/Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Ashu0378/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ashu0378/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ashu0378/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -569,6 +570,7 @@ Solving DSA problems daily
 | [0728-self-dividing-numbers](https://github.com/Ashu0378/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/Ashu0378/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Ashu0378/Leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Ashu0378/Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Ashu0378/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ashu0378/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ashu0378/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -790,6 +792,7 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Ashu0378/Leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Ashu0378/Leetcode/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/Ashu0378/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
@@ -797,6 +800,7 @@ Solving DSA problems daily
 | [0292-nim-game](https://github.com/Ashu0378/Leetcode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Ashu0378/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ashu0378/Leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Ashu0378/Leetcode/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/Ashu0378/Leetcode/tree/master/1406-stone-game-iii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Ashu0378/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Design
@@ -979,4 +983,8 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Ashu0378/Leetcode/tree/master/1192-critical-connections-in-a-network) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Ashu0378/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
