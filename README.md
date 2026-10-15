@@ -266,6 +266,7 @@ Solving DSA problems daily
 | [0200-number-of-islands](https://github.com/Ashu0378/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ashu0378/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ashu0378/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/Ashu0378/Leetcode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0399-evaluate-division](https://github.com/Ashu0378/Leetcode/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/Ashu0378/Leetcode/tree/master/0463-island-perimeter) |
@@ -427,6 +428,7 @@ Solving DSA problems daily
 | [0072-edit-distance](https://github.com/Ashu0378/Leetcode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/Ashu0378/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ashu0378/Leetcode/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/Ashu0378/Leetcode/tree/master/0279-perfect-squares) |
 | [0337-house-robber-iii](https://github.com/Ashu0378/Leetcode/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/Ashu0378/Leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Ashu0378/Leetcode/tree/master/0486-predict-the-winner) |
@@ -569,6 +571,7 @@ Solving DSA problems daily
 | [0062-unique-paths](https://github.com/Ashu0378/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ashu0378/Leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Ashu0378/Leetcode/tree/master/0204-count-primes) |
+| [0279-perfect-squares](https://github.com/Ashu0378/Leetcode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Ashu0378/Leetcode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Ashu0378/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Ashu0378/Leetcode/tree/master/0509-fibonacci-number) |
@@ -994,4 +997,12 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Ashu0378/Leetcode/tree/master/1025-divisor-game) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Ashu0378/Leetcode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Ashu0378/Leetcode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
