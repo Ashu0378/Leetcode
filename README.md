@@ -56,6 +56,7 @@ Solving DSA problems daily
 | [0654-maximum-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ashu0378/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ashu0378/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0778-swim-in-rising-water](https://github.com/Ashu0378/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0811-subdomain-visit-count](https://github.com/Ashu0378/Leetcode/tree/master/0811-subdomain-visit-count) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ashu0378/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Ashu0378/Leetcode/tree/master/0877-stone-game) |
@@ -182,6 +183,7 @@ Solving DSA problems daily
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ashu0378/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ashu0378/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ashu0378/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0778-swim-in-rising-water](https://github.com/Ashu0378/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ashu0378/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ashu0378/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ashu0378/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -233,6 +235,7 @@ Solving DSA problems daily
 | [0652-find-duplicate-subtrees](https://github.com/Ashu0378/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0684-redundant-connection](https://github.com/Ashu0378/Leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Ashu0378/Leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Ashu0378/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ashu0378/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/Ashu0378/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ashu0378/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -278,6 +281,7 @@ Solving DSA problems daily
 | [0623-add-one-row-to-tree](https://github.com/Ashu0378/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0684-redundant-connection](https://github.com/Ashu0378/Leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Ashu0378/Leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Ashu0378/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Ashu0378/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/Ashu0378/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ashu0378/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -302,6 +306,7 @@ Solving DSA problems daily
 | [0200-number-of-islands](https://github.com/Ashu0378/Leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Ashu0378/Leetcode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Ashu0378/Leetcode/tree/master/0684-redundant-connection) |
+| [0778-swim-in-rising-water](https://github.com/Ashu0378/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Ashu0378/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Ashu0378/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ashu0378/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -318,6 +323,7 @@ Solving DSA problems daily
 | [0289-game-of-life](https://github.com/Ashu0378/Leetcode/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ashu0378/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/Ashu0378/Leetcode/tree/master/0463-island-perimeter) |
+| [0778-swim-in-rising-water](https://github.com/Ashu0378/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0980-unique-paths-iii](https://github.com/Ashu0378/Leetcode/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Ashu0378/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ashu0378/Leetcode/tree/master/1020-number-of-enclaves) |
@@ -673,6 +679,7 @@ Solving DSA problems daily
 | [0451-sort-characters-by-frequency](https://github.com/Ashu0378/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Ashu0378/Leetcode/tree/master/0506-relative-ranks) |
 | [0743-network-delay-time](https://github.com/Ashu0378/Leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Ashu0378/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ashu0378/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashu0378/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/Ashu0378/Leetcode/tree/master/1514-path-with-maximum-probability) |
@@ -826,6 +833,7 @@ Solving DSA problems daily
 ## Minimax
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Ashu0378/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1406-stone-game-iii](https://github.com/Ashu0378/Leetcode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
@@ -932,6 +940,7 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Ashu0378/Leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Ashu0378/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ashu0378/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/Ashu0378/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Ashu0378/Leetcode/tree/master/1631-path-with-minimum-effort) |
