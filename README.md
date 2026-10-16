@@ -38,6 +38,7 @@ Solving DSA problems daily
 | [0260-single-number-iii](https://github.com/Ashu0378/Leetcode/tree/master/0260-single-number-iii) |
 | [0289-game-of-life](https://github.com/Ashu0378/Leetcode/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/Ashu0378/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ashu0378/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ashu0378/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Ashu0378/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0399-evaluate-division](https://github.com/Ashu0378/Leetcode/tree/master/0399-evaluate-division) |
@@ -219,6 +220,7 @@ Solving DSA problems daily
 | [0210-course-schedule-ii](https://github.com/Ashu0378/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ashu0378/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ashu0378/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Ashu0378/Leetcode/tree/master/0337-house-robber-iii) |
 | [0386-lexicographical-numbers](https://github.com/Ashu0378/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/Ashu0378/Leetcode/tree/master/0399-evaluate-division) |
@@ -268,6 +270,7 @@ Solving DSA problems daily
 | [0210-course-schedule-ii](https://github.com/Ashu0378/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/Ashu0378/Leetcode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ashu0378/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/Ashu0378/Leetcode/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/Ashu0378/Leetcode/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Ashu0378/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -313,6 +316,7 @@ Solving DSA problems daily
 | [0130-surrounded-regions](https://github.com/Ashu0378/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ashu0378/Leetcode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Ashu0378/Leetcode/tree/master/0289-game-of-life) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ashu0378/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/Ashu0378/Leetcode/tree/master/0463-island-perimeter) |
 | [0980-unique-paths-iii](https://github.com/Ashu0378/Leetcode/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Ashu0378/Leetcode/tree/master/0994-rotting-oranges) |
@@ -429,6 +433,7 @@ Solving DSA problems daily
 | [0198-house-robber](https://github.com/Ashu0378/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ashu0378/Leetcode/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/Ashu0378/Leetcode/tree/master/0279-perfect-squares) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ashu0378/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Ashu0378/Leetcode/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/Ashu0378/Leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Ashu0378/Leetcode/tree/master/0486-predict-the-winner) |
@@ -860,6 +865,7 @@ Solving DSA problems daily
 | ------- |
 | [0207-course-schedule](https://github.com/Ashu0378/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ashu0378/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ashu0378/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/Ashu0378/Leetcode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Ashu0378/Leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Ashu0378/Leetcode/tree/master/0743-network-delay-time) |
@@ -878,6 +884,7 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ashu0378/Leetcode/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ashu0378/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ashu0378/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Ashu0378/Leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Binary Lifting
@@ -903,6 +910,7 @@ Solving DSA problems daily
 | ------- |
 | [0207-course-schedule](https://github.com/Ashu0378/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ashu0378/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ashu0378/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/Ashu0378/Leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Kosaraju's Algorithm
 |  |
@@ -961,6 +969,7 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ashu0378/Leetcode/tree/master/0070-climbing-stairs) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ashu0378/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0509-fibonacci-number](https://github.com/Ashu0378/Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Ashu0378/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Monotonic Stack
