@@ -19,7 +19,7 @@ class Solution {
 
         for(int k=0;k<n;k++){
             for(int i=0;i<n;i++){
-                if(i==k) continue;
+                // if(i==k) continue;
                 for(int j=0;j<n;j++){
                     if(j==k) continue;
                     if(dist[i][k]==Integer.MAX_VALUE || dist[k][j]==Integer.MAX_VALUE) continue;
