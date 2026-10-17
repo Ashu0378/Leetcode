@@ -114,6 +114,7 @@ Solving DSA problems daily
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ashu0378/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Ashu0378/Leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ashu0378/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2392-build-a-matrix-with-conditions](https://github.com/Ashu0378/Leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashu0378/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Ashu0378/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ashu0378/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -331,6 +332,7 @@ Solving DSA problems daily
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ashu0378/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Ashu0378/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1631-path-with-minimum-effort](https://github.com/Ashu0378/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [2392-build-a-matrix-with-conditions](https://github.com/Ashu0378/Leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ashu0378/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -888,6 +890,7 @@ Solving DSA problems daily
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Ashu0378/Leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ashu0378/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/Ashu0378/Leetcode/tree/master/1791-find-center-of-star-graph) |
+| [2392-build-a-matrix-with-conditions](https://github.com/Ashu0378/Leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -895,6 +898,7 @@ Solving DSA problems daily
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ashu0378/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ashu0378/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Ashu0378/Leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [2392-build-a-matrix-with-conditions](https://github.com/Ashu0378/Leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -920,6 +924,7 @@ Solving DSA problems daily
 | [0210-course-schedule-ii](https://github.com/Ashu0378/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ashu0378/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/Ashu0378/Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [2392-build-a-matrix-with-conditions](https://github.com/Ashu0378/Leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
