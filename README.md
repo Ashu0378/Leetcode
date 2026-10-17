@@ -104,6 +104,7 @@ Solving DSA problems daily
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashu0378/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ashu0378/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ashu0378/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2050-parallel-courses-iii](https://github.com/Ashu0378/Leetcode/tree/master/2050-parallel-courses-iii) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ashu0378/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Ashu0378/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ashu0378/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -456,6 +457,7 @@ Solving DSA problems daily
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/Ashu0378/Leetcode/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ashu0378/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2050-parallel-courses-iii](https://github.com/Ashu0378/Leetcode/tree/master/2050-parallel-courses-iii) |
 | [3693-climbing-stairs-ii](https://github.com/Ashu0378/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Ashu0378/Leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Sliding Window
@@ -890,6 +892,7 @@ Solving DSA problems daily
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Ashu0378/Leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ashu0378/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/Ashu0378/Leetcode/tree/master/1791-find-center-of-star-graph) |
+| [2050-parallel-courses-iii](https://github.com/Ashu0378/Leetcode/tree/master/2050-parallel-courses-iii) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Ashu0378/Leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 ## Directed Acyclic Graph
 |  |
@@ -898,6 +901,7 @@ Solving DSA problems daily
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ashu0378/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ashu0378/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Ashu0378/Leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [2050-parallel-courses-iii](https://github.com/Ashu0378/Leetcode/tree/master/2050-parallel-courses-iii) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Ashu0378/Leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 ## Binary Lifting
 |  |
@@ -924,6 +928,7 @@ Solving DSA problems daily
 | [0210-course-schedule-ii](https://github.com/Ashu0378/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ashu0378/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/Ashu0378/Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [2050-parallel-courses-iii](https://github.com/Ashu0378/Leetcode/tree/master/2050-parallel-courses-iii) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Ashu0378/Leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 ## Kosaraju's Algorithm
 |  |
