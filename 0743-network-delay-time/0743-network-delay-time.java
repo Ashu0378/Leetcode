@@ -1,31 +1,50 @@
 class Solution {
+    public class Pair implements Comparable<Pair>{
+        int node;
+        int time;
+        Pair(int node,int time){
+            this.node=node;
+            this.time=time;
+        }
+        public int compareTo(Pair p){
+            if(this.time==p.time) return this.node-p.node;
+            return this.time-p.time;
+        }
+    }
     public int networkDelayTime(int[][] times, int n, int k) {
-        //Bellman Ford
-
-        int[] ans=new int[n+1];
-        Arrays.fill(ans,Integer.MAX_VALUE);
-        ans[k]=0;
-
-        for(int i=0;i<n-1;i++){
-            for(int j=0;j<times.length;j++){
-                int u=times[j][0];
-                int v=times[j][1];
-                int wt=times[j][2];
-                //if(ans[u]==Integer.MAX_VALUE) continue;
-                if(ans[u]!=Integer.MAX_VALUE && ans[u]+wt < ans[v]){
-                    ans[v]=ans[u]+wt;
+        List<List<Pair>> adj=new ArrayList<>();
+        for(int i=0;i<=n;i++){
+            adj.add(new ArrayList<>());
+        }
+        for(int i=0;i<times.length;i++){
+            int u=times[i][0];
+            int v=times[i][1];
+            int t=times[i][2];
+            adj.get(u).add(new Pair(v,t));
+        }
+        int[] arr=new int[n+1];
+        Arrays.fill(arr,Integer.MAX_VALUE);
+        PriorityQueue<Pair> pq=new PriorityQueue<>();
+        pq.add(new Pair(k,0));
+        arr[k]=0;
+        while(pq.size()>0){
+            Pair front=pq.poll();
+            int node=front.node;
+            int time=front.time;
+            if(time>arr[node]) continue;
+            for(Pair p:adj.get(node)){
+                int totalTime=time+p.time;
+                if(totalTime<arr[p.node]){
+                    arr[p.node]=totalTime;
+                    pq.add(new Pair(p.node,totalTime));
                 }
-                // else{
-                //     continue;
-                // }
             }
         }
-        int max=Integer.MIN_VALUE;
-        for(int i=1;i<ans.length;i++){
-            if(max<ans[i]){
-                max=ans[i];
-            }
+        int ans=-1;
+        for(int i=1;i<=n;i++){
+            if(arr[i]==Integer.MAX_VALUE) return -1;
+            if(arr[i]>ans) ans=arr[i];
         }
-        return max==Integer.MAX_VALUE?-1:max;
+        return ans;
     }
 }
