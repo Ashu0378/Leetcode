@@ -75,6 +75,7 @@ Solving DSA problems daily
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ashu0378/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/Ashu0378/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ashu0378/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ashu0378/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Ashu0378/Leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1406-stone-game-iii](https://github.com/Ashu0378/Leetcode/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ashu0378/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -297,6 +298,7 @@ Solving DSA problems daily
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ashu0378/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Ashu0378/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ashu0378/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Ashu0378/Leetcode/tree/master/1609-even-odd-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Ashu0378/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -331,6 +333,7 @@ Solving DSA problems daily
 | [1020-number-of-enclaves](https://github.com/Ashu0378/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ashu0378/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ashu0378/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ashu0378/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Ashu0378/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1631-path-with-minimum-effort](https://github.com/Ashu0378/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Ashu0378/Leetcode/tree/master/2392-build-a-matrix-with-conditions) |
@@ -685,6 +688,7 @@ Solving DSA problems daily
 | [0743-network-delay-time](https://github.com/Ashu0378/Leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Ashu0378/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ashu0378/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ashu0378/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashu0378/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/Ashu0378/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Ashu0378/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -888,6 +892,7 @@ Solving DSA problems daily
 | [0997-find-the-town-judge](https://github.com/Ashu0378/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1192-critical-connections-in-a-network](https://github.com/Ashu0378/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ashu0378/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ashu0378/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/Ashu0378/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Ashu0378/Leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ashu0378/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -945,6 +950,7 @@ Solving DSA problems daily
 | [0743-network-delay-time](https://github.com/Ashu0378/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ashu0378/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ashu0378/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ashu0378/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/Ashu0378/Leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
@@ -952,6 +958,7 @@ Solving DSA problems daily
 | [0743-network-delay-time](https://github.com/Ashu0378/Leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Ashu0378/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ashu0378/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ashu0378/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-path-with-maximum-probability](https://github.com/Ashu0378/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Ashu0378/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Hash Function
@@ -1033,4 +1040,8 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Ashu0378/Leetcode/tree/master/0279-perfect-squares) |
+## 0-1 BFS
+|  |
+| ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ashu0378/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
