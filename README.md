@@ -73,6 +73,7 @@ Solving DSA problems daily
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ashu0378/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ashu0378/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ashu0378/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ashu0378/Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1331-rank-transform-of-an-array](https://github.com/Ashu0378/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ashu0378/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ashu0378/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -297,6 +298,7 @@ Solving DSA problems daily
 | [1020-number-of-enclaves](https://github.com/Ashu0378/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ashu0378/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ashu0378/Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1302-deepest-leaves-sum](https://github.com/Ashu0378/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ashu0378/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -332,6 +334,7 @@ Solving DSA problems daily
 | [0994-rotting-oranges](https://github.com/Ashu0378/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ashu0378/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ashu0378/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ashu0378/Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ashu0378/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ashu0378/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Ashu0378/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
