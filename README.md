@@ -98,6 +98,7 @@ Solving DSA problems daily
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ashu0378/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1710-maximum-units-on-a-truck](https://github.com/Ashu0378/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ashu0378/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1765-map-of-highest-peak](https://github.com/Ashu0378/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [1773-count-items-matching-a-rule](https://github.com/Ashu0378/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Ashu0378/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ashu0378/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -304,6 +305,7 @@ Solving DSA problems daily
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Ashu0378/Leetcode/tree/master/1609-even-odd-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Ashu0378/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1765-map-of-highest-peak](https://github.com/Ashu0378/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Ashu0378/Leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Union-Find
 |  |
@@ -339,6 +341,7 @@ Solving DSA problems daily
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ashu0378/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Ashu0378/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1631-path-with-minimum-effort](https://github.com/Ashu0378/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1765-map-of-highest-peak](https://github.com/Ashu0378/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Ashu0378/Leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ashu0378/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
