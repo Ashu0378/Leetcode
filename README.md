@@ -58,6 +58,7 @@ Solving DSA problems daily
 | [0746-min-cost-climbing-stairs](https://github.com/Ashu0378/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/Ashu0378/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0811-subdomain-visit-count](https://github.com/Ashu0378/Leetcode/tree/master/0811-subdomain-visit-count) |
+| [0851-loud-and-rich](https://github.com/Ashu0378/Leetcode/tree/master/0851-loud-and-rich) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ashu0378/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Ashu0378/Leetcode/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/Ashu0378/Leetcode/tree/master/0890-find-and-replace-pattern) |
@@ -246,6 +247,7 @@ Solving DSA problems daily
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ashu0378/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ashu0378/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Ashu0378/Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0851-loud-and-rich](https://github.com/Ashu0378/Leetcode/tree/master/0851-loud-and-rich) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ashu0378/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/Ashu0378/Leetcode/tree/master/0897-increasing-order-search-tree) |
@@ -895,6 +897,7 @@ Solving DSA problems daily
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ashu0378/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ashu0378/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Ashu0378/Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0851-loud-and-rich](https://github.com/Ashu0378/Leetcode/tree/master/0851-loud-and-rich) |
 | [0997-find-the-town-judge](https://github.com/Ashu0378/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1192-critical-connections-in-a-network](https://github.com/Ashu0378/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ashu0378/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -911,6 +914,7 @@ Solving DSA problems daily
 | [0207-course-schedule](https://github.com/Ashu0378/Leetcode/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ashu0378/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ashu0378/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0851-loud-and-rich](https://github.com/Ashu0378/Leetcode/tree/master/0851-loud-and-rich) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Ashu0378/Leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2050-parallel-courses-iii](https://github.com/Ashu0378/Leetcode/tree/master/2050-parallel-courses-iii) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Ashu0378/Leetcode/tree/master/2392-build-a-matrix-with-conditions) |
@@ -939,6 +943,7 @@ Solving DSA problems daily
 | [0210-course-schedule-ii](https://github.com/Ashu0378/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ashu0378/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/Ashu0378/Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0851-loud-and-rich](https://github.com/Ashu0378/Leetcode/tree/master/0851-loud-and-rich) |
 | [2050-parallel-courses-iii](https://github.com/Ashu0378/Leetcode/tree/master/2050-parallel-courses-iii) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Ashu0378/Leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 ## Kosaraju's Algorithm
