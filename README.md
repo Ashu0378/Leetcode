@@ -24,6 +24,7 @@ Solving DSA problems daily
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ashu0378/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ashu0378/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ashu0378/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0128-longest-consecutive-sequence](https://github.com/Ashu0378/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Ashu0378/Leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Ashu0378/Leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Ashu0378/Leetcode/tree/master/0179-largest-number) |
@@ -138,6 +139,7 @@ Solving DSA problems daily
 | [0001-two-sum](https://github.com/Ashu0378/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashu0378/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Ashu0378/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Ashu0378/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Ashu0378/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Ashu0378/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Ashu0378/Leetcode/tree/master/0242-valid-anagram) |
@@ -314,6 +316,7 @@ Solving DSA problems daily
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ashu0378/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Ashu0378/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ashu0378/Leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Ashu0378/Leetcode/tree/master/0399-evaluate-division) |
