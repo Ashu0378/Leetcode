@@ -612,6 +612,7 @@ Solving DSA problems daily
 | [0062-unique-paths](https://github.com/Ashu0378/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ashu0378/Leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Ashu0378/Leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Ashu0378/Leetcode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/Ashu0378/Leetcode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Ashu0378/Leetcode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Ashu0378/Leetcode/tree/master/0486-predict-the-winner) |
@@ -665,6 +666,7 @@ Solving DSA problems daily
 | ------- |
 | [0078-subsets](https://github.com/Ashu0378/Leetcode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Ashu0378/Leetcode/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/Ashu0378/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Ashu0378/Leetcode/tree/master/0260-single-number-iii) |
 | [0980-unique-paths-iii](https://github.com/Ashu0378/Leetcode/tree/master/0980-unique-paths-iii) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ashu0378/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -698,6 +700,7 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Ashu0378/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Ashu0378/Leetcode/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/Ashu0378/Leetcode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Ashu0378/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Ashu0378/Leetcode/tree/master/0509-fibonacci-number) |
