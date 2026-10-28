@@ -1,21 +1,20 @@
 class Solution {
     public int jump(int[] nums) {
         int n=nums.length;
-        if(n<=1) return 0;
-
-        int ans=0;
-        int currReach=0;
-        int maxJump=0;
-
-        for(int i=0;i<n;i++){
-            maxJump=Math.max(maxJump,i+nums[i]);
-            if(i==currReach){
-                ans++;
-                currReach=maxJump;
-            }
-            if(currReach>=n-1) break;
+        int[] dp=new int[n];
+        Arrays.fill(dp,-1);
+        
+        return helper(dp,nums,0,n-1);
+    }
+    public int helper(int[] dp,int[] nums,int curr,int dest){
+        if(curr>=dest) return 0;
+        if(dp[curr]!=-1) return dp[curr];
+        int temp=Integer.MAX_VALUE;
+        for(int i=1;i<=nums[curr];i++){
+            if(i+curr>dest) break;
+            int res=helper(dp,nums,curr+i,dest);
+            if(res!=Integer.MAX_VALUE) temp=Math.min(temp,1+res);
         }
-        return ans;
-
+        return dp[curr]=temp;
     }
 }
