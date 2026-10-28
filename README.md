@@ -133,6 +133,7 @@ Solving DSA problems daily
 | [3693-climbing-stairs-ii](https://github.com/Ashu0378/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3842-toggle-light-bulbs](https://github.com/Ashu0378/Leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ashu0378/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Ashu0378/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3895-count-digit-appearances](https://github.com/Ashu0378/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/Ashu0378/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
@@ -363,6 +364,7 @@ Solving DSA problems daily
 | [1765-map-of-highest-peak](https://github.com/Ashu0378/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Ashu0378/Leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ashu0378/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Ashu0378/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -497,6 +499,7 @@ Solving DSA problems daily
 | [2050-parallel-courses-iii](https://github.com/Ashu0378/Leetcode/tree/master/2050-parallel-courses-iii) |
 | [3693-climbing-stairs-ii](https://github.com/Ashu0378/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Ashu0378/Leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Ashu0378/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -682,6 +685,7 @@ Solving DSA problems daily
 | [0980-unique-paths-iii](https://github.com/Ashu0378/Leetcode/tree/master/0980-unique-paths-iii) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ashu0378/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ashu0378/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Ashu0378/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Counting
 |  |
 | ------- |
