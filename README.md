@@ -628,6 +628,7 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Ashu0378/Leetcode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Ashu0378/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Ashu0378/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ashu0378/Leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Ashu0378/Leetcode/tree/master/0204-count-primes) |
@@ -721,6 +722,7 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Ashu0378/Leetcode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Ashu0378/Leetcode/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/Ashu0378/Leetcode/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/Ashu0378/Leetcode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Ashu0378/Leetcode/tree/master/0486-predict-the-winner) |
