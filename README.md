@@ -27,6 +27,7 @@ Solving DSA problems daily
 | [0128-longest-consecutive-sequence](https://github.com/Ashu0378/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Ashu0378/Leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Ashu0378/Leetcode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/Ashu0378/Leetcode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/Ashu0378/Leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Ashu0378/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ashu0378/Leetcode/tree/master/0200-number-of-islands) |
@@ -142,6 +143,7 @@ Solving DSA problems daily
 | [0076-minimum-window-substring](https://github.com/Ashu0378/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Ashu0378/Leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Ashu0378/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Ashu0378/Leetcode/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Ashu0378/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Ashu0378/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Ashu0378/Leetcode/tree/master/0242-valid-anagram) |
@@ -391,6 +393,7 @@ Solving DSA problems daily
 | [0079-word-search](https://github.com/Ashu0378/Leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Ashu0378/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Ashu0378/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Ashu0378/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashu0378/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Ashu0378/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Ashu0378/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -468,6 +471,7 @@ Solving DSA problems daily
 | [0070-climbing-stairs](https://github.com/Ashu0378/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Ashu0378/Leetcode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Ashu0378/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Ashu0378/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Ashu0378/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ashu0378/Leetcode/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/Ashu0378/Leetcode/tree/master/0279-perfect-squares) |
@@ -1031,6 +1035,7 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ashu0378/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Ashu0378/Leetcode/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ashu0378/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0509-fibonacci-number](https://github.com/Ashu0378/Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Ashu0378/Leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -1055,6 +1060,7 @@ Solving DSA problems daily
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Ashu0378/Leetcode/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/Ashu0378/Leetcode/tree/master/0386-lexicographical-numbers) |
 ## Biconnected Component
 |  |
@@ -1084,4 +1090,8 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Ashu0378/Leetcode/tree/master/0127-word-ladder) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Ashu0378/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
