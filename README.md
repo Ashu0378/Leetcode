@@ -13,6 +13,7 @@ Solving DSA problems daily
 | [0033-search-in-rotated-sorted-array](https://github.com/Ashu0378/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Ashu0378/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ashu0378/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/Ashu0378/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Ashu0378/Leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Ashu0378/Leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Ashu0378/Leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -471,6 +472,7 @@ Solving DSA problems daily
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ashu0378/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ashu0378/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/Ashu0378/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ashu0378/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Ashu0378/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ashu0378/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -551,6 +553,7 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ashu0378/Leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Ashu0378/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ashu0378/Leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Ashu0378/Leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Ashu0378/Leetcode/tree/master/0179-largest-number) |
