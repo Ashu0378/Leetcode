@@ -396,6 +396,7 @@ Solving DSA problems daily
 | [0022-generate-parentheses](https://github.com/Ashu0378/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ashu0378/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Ashu0378/Leetcode/tree/master/0038-count-and-say) |
+| [0071-simplify-path](https://github.com/Ashu0378/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Ashu0378/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Ashu0378/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Ashu0378/Leetcode/tree/master/0079-word-search) |
@@ -710,6 +711,7 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ashu0378/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Ashu0378/Leetcode/tree/master/0071-simplify-path) |
 | [0173-binary-search-tree-iterator](https://github.com/Ashu0378/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/Ashu0378/Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Ashu0378/Leetcode/tree/master/0402-remove-k-digits) |
