@@ -24,6 +24,7 @@ Solving DSA problems daily
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ashu0378/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ashu0378/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ashu0378/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/Ashu0378/Leetcode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Ashu0378/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Ashu0378/Leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Ashu0378/Leetcode/tree/master/0135-candy) |
@@ -476,6 +477,7 @@ Solving DSA problems daily
 | [0064-minimum-path-sum](https://github.com/Ashu0378/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Ashu0378/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Ashu0378/Leetcode/tree/master/0072-edit-distance) |
+| [0120-triangle](https://github.com/Ashu0378/Leetcode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Ashu0378/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Ashu0378/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Ashu0378/Leetcode/tree/master/0198-house-robber) |
