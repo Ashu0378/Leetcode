@@ -4,18 +4,14 @@ class Solution {
         int n=grid[0].length;
         int[][] dp=new int[m][n];
         for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                dp[i][j]=-1;
-            }
+            Arrays.fill(dp[i],-1);
         }
-        return helper(0,0,grid,dp);
+        return helper(grid,dp,m-1,n-1);
     }
-    public int helper(int i,int j,int[][] grid,int[][] dp){
-        int m=grid.length;
-        int n=grid[0].length;
-        if(i>=m || j>=n) return Integer.MAX_VALUE;
-        if(i==m-1 && j==n-1) return grid[i][j];
-        if(dp[i][j]!=-1) return dp[i][j];
-        return dp[i][j]=grid[i][j]+Math.min(helper(i+1,j,grid,dp),helper(i,j+1,grid,dp));
+    public int helper(int[][] grid,int[][] dp,int m,int n){
+        if(m<0 || n<0) return Integer.MAX_VALUE;
+        if(m==0 && n==0) return grid[m][n];
+        if(dp[m][n]!=-1) return dp[m][n];
+        return dp[m][n]=grid[m][n]+Math.min(helper(grid,dp,m-1,n),helper(grid,dp,m,n-1));
     }
 }
