@@ -1,19 +1,15 @@
 class Solution {
+    Map<String,Integer> map=new HashMap<>();
     public int uniquePaths(int m, int n) {
-       int[][] dp=new int[m][n];
-       for(int i=0;i<m;i++){
-        for(int j=0;j<n;j++){
-            dp[i][j]=-1;
-        }
-       }
-       return paths(0,0,m,n,dp); 
-    }
-    public int paths(int row,int col,Integer m,Integer n,int[][] dp){
-        if(row>=m || col>=n) return 0;
-        if(row==m-1 && col==n-1) return 1;
-        if(dp[row][col]!=-1) return dp[row][col];
-        int rightWays=paths(row,col+1,m,n,dp);
-        int downWays=paths(row+1,col,m,n,dp);
-        return dp[row][col]=rightWays+downWays;
+        if(m==1 || n==1) return 1;
+
+        String temp=new String(""+m+","+n);
+        if(map.containsKey(temp)) return map.get(temp);
+
+        int upWays=uniquePaths(m-1,n);
+        int leftWays=uniquePaths(m,n-1);
+        map.put(temp,upWays+leftWays);
+
+        return upWays+leftWays;
     }
 }
