@@ -54,6 +54,7 @@ Solving DSA problems daily
 | [0463-island-perimeter](https://github.com/Ashu0378/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Ashu0378/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Ashu0378/Leetcode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Ashu0378/Leetcode/tree/master/0494-target-sum) |
 | [0500-keyboard-row](https://github.com/Ashu0378/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Ashu0378/Leetcode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Ashu0378/Leetcode/tree/master/0518-coin-change-ii) |
@@ -227,6 +228,7 @@ Solving DSA problems daily
 | [0078-subsets](https://github.com/Ashu0378/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ashu0378/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Ashu0378/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/Ashu0378/Leetcode/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/Ashu0378/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/Ashu0378/Leetcode/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ashu0378/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -501,6 +503,7 @@ Solving DSA problems daily
 | [0392-is-subsequence](https://github.com/Ashu0378/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Ashu0378/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Ashu0378/Leetcode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Ashu0378/Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Ashu0378/Leetcode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Ashu0378/Leetcode/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ashu0378/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -1127,6 +1130,7 @@ Solving DSA problems daily
 | [0279-perfect-squares](https://github.com/Ashu0378/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Ashu0378/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Ashu0378/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Ashu0378/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Ashu0378/Leetcode/tree/master/0518-coin-change-ii) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ashu0378/Leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Complete Knapsack
@@ -1155,5 +1159,6 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Ashu0378/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Ashu0378/Leetcode/tree/master/0494-target-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ashu0378/Leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 <!---LeetCode Topics End-->
