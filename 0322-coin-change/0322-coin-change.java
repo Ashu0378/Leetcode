@@ -1,16 +1,24 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
-        int[] dp=new int[amount+1];
-        Arrays.fill(dp,amount+1);
-        dp[0]=0;
-
-        for(int i=1;i<=amount;i++){
-            for(int coin:coins){
-                if(i-coin>=0){
-                    dp[i]=Math.min(dp[i-coin]+1,dp[i]);
-                }
+        int n=coins.length;
+        long[][] dp=new long[n][amount+1];
+        for(long[] row:dp){
+            Arrays.fill(row,-1);
+        }
+        int ans=(int)helper(coins,dp,amount,0);
+        return ans==Integer.MAX_VALUE?-1:ans;
+    }
+    public long helper(int[] coins,long[][] dp,int k,int i){
+        if(i==coins.length){
+            if(k==0) return 0;
+            else{
+                return Integer.MAX_VALUE;
             }
         }
-        return dp[amount]<=amount?dp[amount]:-1;
+        if(dp[i][k]!=-1) return dp[i][k];
+        long skip=helper(coins,dp,k,i+1);
+        if(k-coins[i]<0) return dp[i][k]=skip;
+        long pick=1+helper(coins,dp,k-coins[i],i);
+        return dp[i][k]=Math.min(skip,pick);
     }
 }
