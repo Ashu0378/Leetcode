@@ -135,6 +135,7 @@ Solving DSA problems daily
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Ashu0378/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ashu0378/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Ashu0378/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ashu0378/Leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ashu0378/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ashu0378/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ashu0378/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -516,6 +517,7 @@ Solving DSA problems daily
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ashu0378/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ashu0378/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2050-parallel-courses-iii](https://github.com/Ashu0378/Leetcode/tree/master/2050-parallel-courses-iii) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ashu0378/Leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3693-climbing-stairs-ii](https://github.com/Ashu0378/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Ashu0378/Leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Ashu0378/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -1126,6 +1128,7 @@ Solving DSA problems daily
 | [0322-coin-change](https://github.com/Ashu0378/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Ashu0378/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Ashu0378/Leetcode/tree/master/0518-coin-change-ii) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ashu0378/Leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -1152,4 +1155,5 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Ashu0378/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ashu0378/Leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 <!---LeetCode Topics End-->
