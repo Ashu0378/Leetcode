@@ -119,6 +119,7 @@ Solving DSA problems daily
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ashu0378/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashu0378/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashu0378/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1992-find-all-groups-of-farmland](https://github.com/Ashu0378/Leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Ashu0378/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Ashu0378/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2050-parallel-courses-iii](https://github.com/Ashu0378/Leetcode/tree/master/2050-parallel-courses-iii) |
@@ -291,6 +292,7 @@ Solving DSA problems daily
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Ashu0378/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1992-find-all-groups-of-farmland](https://github.com/Ashu0378/Leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ashu0378/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Ashu0378/Leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -339,6 +341,7 @@ Solving DSA problems daily
 | [1609-even-odd-tree](https://github.com/Ashu0378/Leetcode/tree/master/1609-even-odd-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Ashu0378/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Ashu0378/Leetcode/tree/master/1765-map-of-highest-peak) |
+| [1992-find-all-groups-of-farmland](https://github.com/Ashu0378/Leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Ashu0378/Leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Union-Find
 |  |
@@ -381,6 +384,7 @@ Solving DSA problems daily
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/Ashu0378/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1631-path-with-minimum-effort](https://github.com/Ashu0378/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Ashu0378/Leetcode/tree/master/1765-map-of-highest-peak) |
+| [1992-find-all-groups-of-farmland](https://github.com/Ashu0378/Leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Ashu0378/Leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ashu0378/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Ashu0378/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
