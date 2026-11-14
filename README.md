@@ -137,6 +137,7 @@ Solving DSA problems daily
 | [2392-build-a-matrix-with-conditions](https://github.com/Ashu0378/Leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashu0378/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Ashu0378/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ashu0378/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ashu0378/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Ashu0378/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ashu0378/Leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -298,6 +299,7 @@ Solving DSA problems daily
 | [1992-find-all-groups-of-farmland](https://github.com/Ashu0378/Leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ashu0378/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Ashu0378/Leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ashu0378/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -347,6 +349,7 @@ Solving DSA problems daily
 | [1765-map-of-highest-peak](https://github.com/Ashu0378/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [1992-find-all-groups-of-farmland](https://github.com/Ashu0378/Leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/Ashu0378/Leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ashu0378/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -363,6 +366,7 @@ Solving DSA problems daily
 | [1267-count-servers-that-communicate](https://github.com/Ashu0378/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ashu0378/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Ashu0378/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ashu0378/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -391,6 +395,7 @@ Solving DSA problems daily
 | [1765-map-of-highest-peak](https://github.com/Ashu0378/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [1992-find-all-groups-of-farmland](https://github.com/Ashu0378/Leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Ashu0378/Leetcode/tree/master/2392-build-a-matrix-with-conditions) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ashu0378/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ashu0378/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Ashu0378/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
