@@ -141,6 +141,7 @@ Solving DSA problems daily
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Ashu0378/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ashu0378/Leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ashu0378/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Ashu0378/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ashu0378/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ashu0378/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3693-climbing-stairs-ii](https://github.com/Ashu0378/Leetcode/tree/master/3693-climbing-stairs-ii) |
@@ -558,6 +559,7 @@ Solving DSA problems daily
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ashu0378/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Ashu0378/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Ashu0378/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Ashu0378/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -582,6 +584,7 @@ Solving DSA problems daily
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ashu0378/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ashu0378/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Ashu0378/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Ashu0378/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/Ashu0378/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Greedy
 |  |
