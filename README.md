@@ -206,6 +206,7 @@ Solving DSA problems daily
 | [3668-restore-finishing-order](https://github.com/Ashu0378/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Ashu0378/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3842-toggle-light-bulbs](https://github.com/Ashu0378/Leetcode/tree/master/3842-toggle-light-bulbs) |
+| [3945-digit-frequency-score](https://github.com/Ashu0378/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
 | ------- |
@@ -716,6 +717,7 @@ Solving DSA problems daily
 | [3870-count-commas-in-range](https://github.com/Ashu0378/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ashu0378/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Ashu0378/Leetcode/tree/master/3895-count-digit-appearances) |
+| [3945-digit-frequency-score](https://github.com/Ashu0378/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Number Theory
 |  |
 | ------- |
