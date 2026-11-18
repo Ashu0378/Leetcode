@@ -185,6 +185,7 @@ Solving DSA problems daily
 | [0890-find-and-replace-pattern](https://github.com/Ashu0378/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/Ashu0378/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ashu0378/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ashu0378/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/Ashu0378/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ashu0378/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -288,6 +289,7 @@ Solving DSA problems daily
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ashu0378/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/Ashu0378/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Ashu0378/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Ashu0378/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -342,6 +344,7 @@ Solving DSA problems daily
 | [0802-find-eventual-safe-states](https://github.com/Ashu0378/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ashu0378/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Ashu0378/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ashu0378/Leetcode/tree/master/1020-number-of-enclaves) |
@@ -645,6 +648,7 @@ Solving DSA problems daily
 | [0414-third-maximum-number](https://github.com/Ashu0378/Leetcode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Ashu0378/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Ashu0378/Leetcode/tree/master/0506-relative-ranks) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ashu0378/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/Ashu0378/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Ashu0378/Leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
@@ -845,6 +849,7 @@ Solving DSA problems daily
 | [0894-all-possible-full-binary-trees](https://github.com/Ashu0378/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Ashu0378/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ashu0378/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Ashu0378/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -893,6 +898,7 @@ Solving DSA problems daily
 | [0894-all-possible-full-binary-trees](https://github.com/Ashu0378/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Ashu0378/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ashu0378/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Ashu0378/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
