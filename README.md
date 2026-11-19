@@ -550,6 +550,7 @@ Solving DSA problems daily
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ashu0378/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/Ashu0378/Leetcode/tree/master/1406-stone-game-iii) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Ashu0378/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ashu0378/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ashu0378/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2050-parallel-courses-iii](https://github.com/Ashu0378/Leetcode/tree/master/2050-parallel-courses-iii) |
@@ -1158,6 +1159,7 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Ashu0378/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Ashu0378/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Bipartite Graph
 |  |
 | ------- |
