@@ -137,6 +137,7 @@ Solving DSA problems daily
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ashu0378/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Ashu0378/Leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashu0378/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ashu0378/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Ashu0378/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ashu0378/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ashu0378/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -632,6 +633,7 @@ Solving DSA problems daily
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Ashu0378/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Ashu0378/Leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ashu0378/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ashu0378/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Ashu0378/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2864-maximum-odd-binary-number](https://github.com/Ashu0378/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashu0378/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -665,6 +667,7 @@ Solving DSA problems daily
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Ashu0378/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Ashu0378/Leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ashu0378/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ashu0378/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashu0378/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ashu0378/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ashu0378/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
