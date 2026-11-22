@@ -1,19 +1,16 @@
 class Solution {
     public boolean checkString(String s) {
-        int j=0;
-        for(int i=0;i<s.length();i++){
-            char ch=s.charAt(i);
-            
-            if(ch=='b'){
+        int i=0;
+        for(int j=0;j<s.length();j++){
+            if(s.charAt(j)=='b'){
+                i=j;
                 break;
             }
-            j++;
         }
-        for(int i=j;i<s.length();i++){
-            char ch=s.charAt(i);
-            if(ch=='a'){
-                return false;
-            }
+        if(i==s.length()-1) return true;
+        if(s.charAt(i)=='a') return true;
+        for(int j=i;j<s.length();j++){
+            if(s.charAt(j)=='a') return false;
         }
         return true;
     }
