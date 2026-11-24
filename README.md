@@ -147,6 +147,7 @@ Solving DSA problems daily
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Ashu0378/Leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ashu0378/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Ashu0378/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ashu0378/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ashu0378/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ashu0378/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Ashu0378/Leetcode/tree/master/3668-restore-finishing-order) |
@@ -582,6 +583,7 @@ Solving DSA problems daily
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Ashu0378/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Ashu0378/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Ashu0378/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ashu0378/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -727,6 +729,7 @@ Solving DSA problems daily
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Ashu0378/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ashu0378/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashu0378/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ashu0378/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ashu0378/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ashu0378/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ashu0378/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -745,6 +748,7 @@ Solving DSA problems daily
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashu0378/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Ashu0378/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Ashu0378/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ashu0378/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ashu0378/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String Matching
 |  |
@@ -949,6 +953,7 @@ Solving DSA problems daily
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ashu0378/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2427-number-of-common-factors](https://github.com/Ashu0378/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ashu0378/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ashu0378/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ashu0378/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
