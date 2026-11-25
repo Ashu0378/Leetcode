@@ -133,6 +133,7 @@ Solving DSA problems daily
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ashu0378/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ashu0378/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ashu0378/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Ashu0378/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashu0378/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ashu0378/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Ashu0378/Leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
@@ -409,6 +410,7 @@ Solving DSA problems daily
 | [1631-path-with-minimum-effort](https://github.com/Ashu0378/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Ashu0378/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [1992-find-all-groups-of-farmland](https://github.com/Ashu0378/Leetcode/tree/master/1992-find-all-groups-of-farmland) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Ashu0378/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Ashu0378/Leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Ashu0378/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ashu0378/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -503,6 +505,7 @@ Solving DSA problems daily
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ashu0378/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ashu0378/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Ashu0378/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Ashu0378/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2490-circular-sentence](https://github.com/Ashu0378/Leetcode/tree/master/2490-circular-sentence) |
 | [2716-minimize-string-length](https://github.com/Ashu0378/Leetcode/tree/master/2716-minimize-string-length) |
 | [2810-faulty-keyboard](https://github.com/Ashu0378/Leetcode/tree/master/2810-faulty-keyboard) |
@@ -721,6 +724,7 @@ Solving DSA problems daily
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ashu0378/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/Ashu0378/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashu0378/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Ashu0378/Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Ashu0378/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2396-strictly-palindromic-number](https://github.com/Ashu0378/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2427-number-of-common-factors](https://github.com/Ashu0378/Leetcode/tree/master/2427-number-of-common-factors) |
