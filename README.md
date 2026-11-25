@@ -725,6 +725,7 @@ Solving DSA problems daily
 | [2396-strictly-palindromic-number](https://github.com/Ashu0378/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2427-number-of-common-factors](https://github.com/Ashu0378/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Ashu0378/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Ashu0378/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2864-maximum-odd-binary-number](https://github.com/Ashu0378/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Ashu0378/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ashu0378/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
