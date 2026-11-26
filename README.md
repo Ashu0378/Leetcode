@@ -482,6 +482,7 @@ Solving DSA problems daily
 | [0925-long-pressed-name](https://github.com/Ashu0378/Leetcode/tree/master/0925-long-pressed-name) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Ashu0378/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1108-defanging-an-ip-address](https://github.com/Ashu0378/Leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1143-longest-common-subsequence](https://github.com/Ashu0378/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ashu0378/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Ashu0378/Leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1446-consecutive-characters](https://github.com/Ashu0378/Leetcode/tree/master/1446-consecutive-characters) |
@@ -553,6 +554,7 @@ Solving DSA problems daily
 | [0931-minimum-falling-path-sum](https://github.com/Ashu0378/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1025-divisor-game](https://github.com/Ashu0378/Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Ashu0378/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Ashu0378/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ashu0378/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ashu0378/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Ashu0378/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -1238,4 +1240,8 @@ Solving DSA problems daily
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Ashu0378/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Ashu0378/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
